@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "GitAds Sponsored"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Sharing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Home Automation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:15.147Z",
+    "original_repository": "hotheadhacker/awesome-selfhost-docker",
+    "original_repository_sha": "b41018f9a4f62db6c490ede8a96148b1259dcb8b",
+    "enhanced_repository": "enhansome/enhansome-selfhost-docker",
+    "enhanced_repository_description": null,
+    "title": "Awesome Self-Host Docker with stars"
+  }
+}
