@@ -1,7 +1,2618 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nextcloud",
+          "description": "Productivity platform for file hosting and collaboration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63169079,
+            "language": "Shell",
+            "last_commit": "2026-08-14T11:58:57Z",
+            "owner": "nextcloud",
+            "repo": "docker",
+            "stars": 7353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Note-taking and to-do application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79162682,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:25:58Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 56082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paperless-ng",
+          "description": "Document management system",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 138872921,
+            "language": "Python",
+            "last_commit": "2023-02-14T14:55:33Z",
+            "owner": "jonaswinkler",
+            "repo": "paperless-ng",
+            "stars": 5416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookstack",
+          "description": "Platform for organizing and storing information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41589337,
+            "language": "PHP",
+            "last_commit": "2026-08-24T12:43:55Z",
+            "owner": "BookStackApp",
+            "repo": "BookStack",
+            "stars": 19002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium",
+          "description": "Hierarchical note-taking application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92111509,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:56:56Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HedgeDoc",
+          "description": "Collaborative markdown editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177987738,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T08:06:23Z",
+            "owner": "hedgedoc",
+            "repo": "hedgedoc",
+            "stars": 7377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wekan",
+          "description": "Open-source Trello-like kanban board",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16089035,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:23:50Z",
+            "owner": "wekan",
+            "repo": "wekan",
+            "stars": 21059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zim",
+          "description": "Desktop wiki & note-taking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87575093,
+            "language": "Python",
+            "last_commit": "2026-07-26T06:36:15Z",
+            "owner": "zim-desktop-wiki",
+            "repo": "zim-desktop-wiki",
+            "stars": 2195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standard Notes",
+          "description": "Encrypted note-taking app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504488350,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T03:02:39Z",
+            "owner": "standardnotes",
+            "repo": "server",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanboard",
+          "description": "Project management software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16238673,
+            "language": "PHP",
+            "last_commit": "2026-08-23T23:03:55Z",
+            "owner": "kanboard",
+            "repo": "kanboard",
+            "stars": 9818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Etherpad",
+          "description": "Real-time collaborative document editing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1529160,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:38:13Z",
+            "owner": "ether",
+            "repo": "etherpad",
+            "stars": 18503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnlyOffice",
+          "description": "Office suite that enables you to manage documents, projects, team, and customer relations in one place",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34124070,
+            "language": "Shell",
+            "last_commit": "2026-08-24T01:27:30Z",
+            "owner": "ONLYOFFICE",
+            "repo": "Docker-DocumentServer",
+            "stars": 2386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptPad",
+          "description": "Collaboration suite that is end-to-end encrypted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26022284,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T12:47:13Z",
+            "owner": "cryptpad",
+            "repo": "cryptpad",
+            "stars": 7858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outline",
+          "description": "A modern team knowledge base",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59435364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:21:39Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeeWX",
+          "description": "Weather station software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30899362,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:26:48Z",
+            "owner": "weewx",
+            "repo": "weewx",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimai",
+          "description": "Time-tracking application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71485542,
+            "language": "PHP",
+            "last_commit": "2026-08-24T12:33:41Z",
+            "owner": "kimai",
+            "repo": "kimai",
+            "stars": 4937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restyaboard",
+          "description": "Open-source Trello-like kanban board",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36856044,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T05:50:00Z",
+            "owner": "RestyaPlatform",
+            "repo": "board",
+            "stars": 2087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskcafe",
+          "description": "Open-source project management tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268405433,
+            "language": "TypeScript",
+            "last_commit": "2023-07-23T18:48:35Z",
+            "owner": "JordanKnott",
+            "repo": "taskcafe",
+            "stars": 5210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focalboard",
+          "description": "Open-source project management tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301793434,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:05:00Z",
+            "owner": "mattermost-community",
+            "repo": "focalboard",
+            "stars": 26425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "Open-source Notion alternative with a focus on privacy and extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377496562,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huly",
+          "description": "All-in-One Project Management Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392073243,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:09:34Z",
+            "owner": "hcengineering",
+            "repo": "platform",
+            "stars": 27431
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gitea",
+          "description": "Lightweight code hosting solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72495579,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:37:20Z",
+            "owner": "go-gitea",
+            "repo": "gitea",
+            "stars": 57570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drone",
+          "description": "Continuous Integration platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16607898,
+            "language": "Go",
+            "last_commit": "2026-08-21T19:21:23Z",
+            "owner": "harness",
+            "repo": "harness",
+            "stars": 38105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jenkins",
+          "description": "Automation server for CI/CD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21969270,
+            "language": "PowerShell",
+            "last_commit": "2026-08-24T10:40:04Z",
+            "owner": "jenkinsci",
+            "repo": "docker",
+            "stars": 7615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gogs",
+          "description": "Painless self-hosted Git service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16752620,
+            "language": "Go",
+            "last_commit": "2026-08-22T21:32:23Z",
+            "owner": "gogs",
+            "repo": "gogs",
+            "stars": 47759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portainer",
+          "description": "Lightweight management UI for Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59239347,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T13:17:09Z",
+            "owner": "portainer",
+            "repo": "portainer",
+            "stars": 38326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SonarQube",
+          "description": "Continuous inspection of code quality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35156663,
+            "language": "Go",
+            "last_commit": "2026-08-07T07:16:45Z",
+            "owner": "SonarSource",
+            "repo": "docker-sonarqube",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "Error tracking and performance monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51547791,
+            "language": "Shell",
+            "last_commit": "2026-08-24T09:36:44Z",
+            "owner": "getsentry",
+            "repo": "self-hosted",
+            "stars": 9513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiga",
+          "description": "Project management platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357894794,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:59:13Z",
+            "owner": "taigaio",
+            "repo": "taiga-back",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phabricator",
+          "description": "Suite of open-source tools for peer code review, task management, and project communication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1280180,
+            "language": "PHP",
+            "last_commit": "2024-04-12T10:28:40Z",
+            "owner": "phacility",
+            "repo": "phabricator",
+            "stars": 12297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code-Server",
+          "description": "Run VS Code on any machine anywhere",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172953845,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T21:45:26Z",
+            "owner": "coder",
+            "repo": "code-server",
+            "stars": 79042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theia",
+          "description": "Cloud & desktop IDE framework implemented in TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83050680,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:42:48Z",
+            "owner": "eclipse-theia",
+            "repo": "theia",
+            "stars": 21649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JupyterHub",
+          "description": "Multi-user server for Jupyter notebooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20785986,
+            "language": "Python",
+            "last_commit": "2026-08-20T20:52:44Z",
+            "owner": "jupyterhub",
+            "repo": "jupyterhub",
+            "stars": 8328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitBucket",
+          "description": "Git platform powered by Scala",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9350746,
+            "language": "Scala",
+            "last_commit": "2026-08-22T21:43:38Z",
+            "owner": "gitbucket",
+            "repo": "gitbucket",
+            "stars": 9393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gerrit",
+          "description": "Web-based code review system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47751755,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:59:16Z",
+            "owner": "GerritCodeReview",
+            "repo": "gerrit",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sourcegraph",
+          "description": "Code search and navigation tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153849103,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:42:54Z",
+            "owner": "sourcegraph",
+            "repo": "deploy-sourcegraph-docker",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodiMD",
+          "description": "Real-time collaborative markdown notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35017238,
+            "language": "JavaScript",
+            "last_commit": "2025-10-02T02:51:07Z",
+            "owner": "hackmdio",
+            "repo": "codimd",
+            "stars": 10133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leantime",
+          "description": "Open-source project management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29745084,
+            "language": "PHP",
+            "last_commit": "2026-08-15T04:20:40Z",
+            "owner": "Leantime",
+            "repo": "leantime",
+            "stars": 11430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tigerbeetle",
+          "description": "The financial transactions database designed for mission critical safety and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254418044,
+            "language": "Zig",
+            "last_commit": "2026-08-18T14:22:21Z",
+            "owner": "tigerbeetle",
+            "repo": "tigerbeetle",
+            "stars": 16898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Undb",
+          "description": "No Code Database & BaaS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567558968,
+            "language": "TypeScript",
+            "last_commit": "2025-07-13T06:36:16Z",
+            "owner": "undb-io",
+            "repo": "undb",
+            "stars": 2974
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Plex",
+          "description": "Media server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75842869,
+            "language": "Go Template",
+            "last_commit": "2026-08-02T19:10:34Z",
+            "owner": "plexinc",
+            "repo": "pms-docker",
+            "stars": 4022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jellyfin",
+          "description": "Media system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161012019,
+            "language": "C#",
+            "last_commit": "2026-08-23T21:54:37Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin",
+            "stars": 56120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airsonic",
+          "description": "Music streaming server",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 96242277,
+            "language": "Java",
+            "last_commit": "2021-08-11T21:09:11Z",
+            "owner": "airsonic",
+            "repo": "airsonic",
+            "stars": 2045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photoprism",
+          "description": "Personal photo management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119160553,
+            "language": "Go",
+            "last_commit": "2026-08-24T07:47:07Z",
+            "owner": "photoprism",
+            "repo": "photoprism",
+            "stars": 40104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navidrome",
+          "description": "Music server and streamer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52481933,
+            "language": "Go",
+            "last_commit": "2026-08-24T10:17:44Z",
+            "owner": "navidrome",
+            "repo": "navidrome",
+            "stars": 23086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emby",
+          "description": "Media server for personal streaming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8231466,
+            "language": "C#",
+            "last_commit": "2024-03-27T18:20:17Z",
+            "owner": "MediaBrowser",
+            "repo": "Emby",
+            "stars": 4959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radarr",
+          "description": "Movie collection manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77323220,
+            "language": "C#",
+            "last_commit": "2026-08-23T18:54:50Z",
+            "owner": "Radarr",
+            "repo": "Radarr",
+            "stars": 14218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonarr",
+          "description": "TV series collection manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2465723,
+            "language": "C#",
+            "last_commit": "2026-08-19T01:30:02Z",
+            "owner": "Sonarr",
+            "repo": "Sonarr",
+            "stars": 15248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lidarr",
+          "description": "Music collection manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90468352,
+            "language": "C#",
+            "last_commit": "2026-08-23T11:39:52Z",
+            "owner": "Lidarr",
+            "repo": "Lidarr",
+            "stars": 5590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SickChill",
+          "description": "Automatic Video Library Manager for TV Shows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46151823,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:53:41Z",
+            "owner": "SickChill",
+            "repo": "sickchill",
+            "stars": 2441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyMediaForAlexa",
+          "description": "Stream your own music to Alexa devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19316865,
+            "language": "C",
+            "last_commit": "2026-08-24T07:14:40Z",
+            "owner": "mikebrady",
+            "repo": "shairport-sync",
+            "stars": 8825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koel",
+          "description": "Personal music streaming server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47495360,
+            "language": "PHP",
+            "last_commit": "2026-08-22T13:35:45Z",
+            "owner": "koel",
+            "repo": "koel",
+            "stars": 17231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subsonic",
+          "description": "Music server and streamer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10263553,
+            "language": "C",
+            "last_commit": "2026-08-21T18:56:43Z",
+            "owner": "owntone",
+            "repo": "owntone-server",
+            "stars": 2542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ampache",
+          "description": "Web-based audio/video streaming application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8933498,
+            "language": "PHP",
+            "last_commit": "2026-08-20T05:38:41Z",
+            "owner": "ampache",
+            "repo": "ampache",
+            "stars": 3824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreTime",
+          "description": "Open-source radio management software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82463450,
+            "language": "PHP",
+            "last_commit": "2026-08-23T06:48:22Z",
+            "owner": "libretime",
+            "repo": "libretime",
+            "stars": 941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headphones",
+          "description": "Automated music downloader for NZB and Torrent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1779181,
+            "language": "Python",
+            "last_commit": "2025-08-08T05:28:27Z",
+            "owner": "rembo10",
+            "repo": "headphones",
+            "stars": 3750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beets",
+          "description": "Music library manager and MusicBrainz tagger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827590,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:54:40Z",
+            "owner": "beetbox",
+            "repo": "beets",
+            "stars": 15575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mopidy",
+          "description": "Extensible music server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 447036,
+            "language": "Python",
+            "last_commit": "2026-08-20T05:49:19Z",
+            "owner": "mopidy",
+            "repo": "mopidy",
+            "stars": 8562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piwigo",
+          "description": "Photo gallery software for the web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39682214,
+            "language": "PHP",
+            "last_commit": "2026-08-24T05:11:40Z",
+            "owner": "Piwigo",
+            "repo": "Piwigo",
+            "stars": 3843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prowlarr",
+          "description": "An indexer manager/proxy built on *Arr to integrate with various media software like Sonarr, Radarr, and Lidarr. Supports multiple indexers and automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305021589,
+            "language": "C#",
+            "last_commit": "2026-08-23T08:12:32Z",
+            "owner": "Prowlarr",
+            "repo": "Prowlarr",
+            "stars": 7086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt",
+          "description": "Quick Media Downloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511987144,
+            "language": "Svelte",
+            "last_commit": "2026-04-06T11:59:56Z",
+            "owner": "imputnet",
+            "repo": "cobalt",
+            "stars": 42237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audiobookshelf",
+          "description": "Self-hosted audiobook and podcast server with a web player and mobile apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397401267,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T22:13:48Z",
+            "owner": "advplyr",
+            "repo": "audiobookshelf",
+            "stars": 14092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuggestArr",
+          "description": "Companion tool for Overseerr and Jellyfin that provides media recommendations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 872358547,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:36:08Z",
+            "owner": "giuseppe99barchetta",
+            "repo": "SuggestArr",
+            "stars": 1274
+          }
+        }
+      ],
+      "title": "Media"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rocket.Chat",
+          "description": "Communication platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35866694,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:48:33Z",
+            "owner": "RocketChat",
+            "repo": "Rocket.Chat",
+            "stars": 46025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix Synapse",
+          "description": "Matrix reference homeserver",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22844864,
+            "language": "Python",
+            "last_commit": "2024-04-26T15:47:23Z",
+            "owner": "matrix-org",
+            "repo": "synapse",
+            "stars": 12103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jitsi Meet",
+          "description": "Video conferencing solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141265446,
+            "language": "Lua",
+            "last_commit": "2026-08-20T18:06:45Z",
+            "owner": "jitsi",
+            "repo": "docker-jitsi-meet",
+            "stars": 3600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zulip",
+          "description": "Team chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43160685,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:43:24Z",
+            "owner": "zulip",
+            "repo": "zulip",
+            "stars": 25765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mumble",
+          "description": "Low-latency voice chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1413319,
+            "language": "C++",
+            "last_commit": "2026-08-23T07:40:12Z",
+            "owner": "mumble-voip",
+            "repo": "mumble",
+            "stars": 8217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mattermost",
+          "description": "Open-source, self-hostable online chat service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37448451,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:46:04Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element",
+          "description": "A glossy Matrix collaboration client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39487546,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:33:59Z",
+            "owner": "element-hq",
+            "repo": "element-web",
+            "stars": 13407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discourse",
+          "description": "Open-source discussion platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13973168,
+            "language": "Shell",
+            "last_commit": "2026-08-24T04:29:50Z",
+            "owner": "discourse",
+            "repo": "discourse_docker",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postal",
+          "description": "Mail delivery platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88740103,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T02:35:19Z",
+            "owner": "postalserver",
+            "repo": "postal",
+            "stars": 16765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailu",
+          "description": "Full-featured mail server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49386559,
+            "language": "Python",
+            "last_commit": "2026-08-21T12:04:49Z",
+            "owner": "Mailu",
+            "repo": "Mailu",
+            "stars": 7471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matterbridge",
+          "description": "Bridge between various chat protocols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44820350,
+            "language": "Go",
+            "last_commit": "2024-12-12T00:20:34Z",
+            "owner": "42wim",
+            "repo": "matterbridge",
+            "stars": 7553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Misskey",
+          "description": "Decentralized social media platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77326607,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:55:01Z",
+            "owner": "misskey-dev",
+            "repo": "misskey",
+            "stars": 11303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friendica",
+          "description": "Decentralized social network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2722709,
+            "language": "PHP",
+            "last_commit": "2026-08-24T09:08:17Z",
+            "owner": "friendica",
+            "repo": "friendica",
+            "stars": 1684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diaspora",
+          "description": "Distributed social networking service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 911765,
+            "language": "Ruby",
+            "last_commit": "2026-07-28T20:36:26Z",
+            "owner": "diaspora",
+            "repo": "diaspora",
+            "stars": 13653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movim",
+          "description": "Decentralized social platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37983532,
+            "language": "PHP",
+            "last_commit": "2026-08-24T10:37:59Z",
+            "owner": "movim",
+            "repo": "movim",
+            "stars": 2043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scuttlebutt",
+          "description": "Decentralized social network",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 37995048,
+            "language": "JavaScript",
+            "last_commit": "2021-05-12T06:57:58Z",
+            "owner": "ssbc",
+            "repo": "patchwork",
+            "stars": 3569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threema Web",
+          "description": "Secure messaging app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81329223,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T06:16:35Z",
+            "owner": "threema-ch",
+            "repo": "threema-web",
+            "stars": 1069
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitwarden",
+          "description": "Password manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46755185,
+            "language": "C#",
+            "last_commit": "2026-08-24T11:56:39Z",
+            "owner": "bitwarden",
+            "repo": "server",
+            "stars": 19923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authelia",
+          "description": "Authentication and authorization server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75785240,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:47:41Z",
+            "owner": "authelia",
+            "repo": "authelia",
+            "stars": 28675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak",
+          "description": "Identity and access management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11125589,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:49:16Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault",
+          "description": "Secrets management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31288958,
+            "language": "Go",
+            "last_commit": "2026-08-21T22:04:03Z",
+            "owner": "hashicorp",
+            "repo": "vault",
+            "stars": 36161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaultwarden",
+          "description": "Unofficial Bitwarden server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121898717,
+            "language": "Rust",
+            "last_commit": "2026-08-22T12:09:35Z",
+            "owner": "dani-garcia",
+            "repo": "vaultwarden",
+            "stars": 66051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fail2ban",
+          "description": "Intrusion prevention software framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2476162,
+            "language": "Python",
+            "last_commit": "2026-08-22T11:32:13Z",
+            "owner": "fail2ban",
+            "repo": "fail2ban",
+            "stars": 18460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSSEC",
+          "description": "Open Source Host-based Intrusion Detection System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12901559,
+            "language": "C",
+            "last_commit": "2026-08-12T20:55:11Z",
+            "owner": "ossec",
+            "repo": "ossec-hids",
+            "stars": 5046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClamAV",
+          "description": "Open-source antivirus engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5128084,
+            "language": "C",
+            "last_commit": "2026-08-21T20:40:43Z",
+            "owner": "Cisco-Talos",
+            "repo": "clamav",
+            "stars": 7168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVPN",
+          "description": "Open-source VPN solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20468810,
+            "language": "Shell",
+            "last_commit": "2025-05-21T05:36:59Z",
+            "owner": "kylemanna",
+            "repo": "docker-openvpn",
+            "stars": 9087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WireGuard",
+          "description": "Fast and modern VPN solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251491969,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-06T13:08:13Z",
+            "owner": "linuxserver",
+            "repo": "docker-wireguard",
+            "stars": 3632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdSec",
+          "description": "Collaborative security engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264154402,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:22:42Z",
+            "owner": "crowdsecurity",
+            "repo": "crowdsec",
+            "stars": 14635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModSecurity",
+          "description": "Open-source web application firewall",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1320594,
+            "language": "C++",
+            "last_commit": "2026-07-28T14:23:43Z",
+            "owner": "owasp-modsecurity",
+            "repo": "ModSecurity",
+            "stars": 9751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suricata",
+          "description": "Network threat detection engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5410234,
+            "language": "C",
+            "last_commit": "2026-08-22T18:14:48Z",
+            "owner": "OISF",
+            "repo": "suricata",
+            "stars": 6566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snort",
+          "description": "Network intrusion detection system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27875223,
+            "language": "C++",
+            "last_commit": "2026-04-23T20:33:58Z",
+            "owner": "snort3",
+            "repo": "snort3",
+            "stars": 3407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wazuh",
+          "description": "Security monitoring and SIEM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40556106,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:39:26Z",
+            "owner": "wazuh",
+            "repo": "wazuh",
+            "stars": 16660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSCAP",
+          "description": "Security compliance solutions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19279199,
+            "language": "XSLT",
+            "last_commit": "2026-08-13T18:15:39Z",
+            "owner": "OpenSCAP",
+            "repo": "openscap",
+            "stars": 1802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rspamd",
+          "description": "Fast, free and open-source spam filtering system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9549081,
+            "language": "C",
+            "last_commit": "2026-08-21T16:58:30Z",
+            "owner": "rspamd",
+            "repo": "rspamd",
+            "stars": 2512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpamAssassin",
+          "description": "Open-source anti-spam platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205402,
+            "language": "Perl",
+            "last_commit": "2026-08-24T08:33:08Z",
+            "owner": "apache",
+            "repo": "spamassassin",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graylog",
+          "description": "Log management platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671825,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:31:04Z",
+            "owner": "Graylog2",
+            "repo": "graylog2-server",
+            "stars": 8113
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grafana",
+          "description": "Analytics and monitoring solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15111821,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:59:21Z",
+            "owner": "grafana",
+            "repo": "grafana",
+            "stars": 76387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "Monitoring system and time series database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6838921,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:48:09Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netdata",
+          "description": "Real-time performance monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10744183,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:50:26Z",
+            "owner": "netdata",
+            "repo": "netdata",
+            "stars": 80275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uptime Kuma",
+          "description": "Uptime monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382496361,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T03:32:09Z",
+            "owner": "louislam",
+            "repo": "uptime-kuma",
+            "stars": 90556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zabbix",
+          "description": "Enterprise-class monitoring solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17253775,
+            "language": "Go Template",
+            "last_commit": "2026-08-24T08:30:49Z",
+            "owner": "zabbix",
+            "repo": "zabbix",
+            "stars": 6302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "Time series database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13124802,
+            "language": "Rust",
+            "last_commit": "2026-08-20T19:31:27Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegraf",
+          "description": "Server agent for collecting and reporting metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33258973,
+            "language": "Go",
+            "last_commit": "2026-08-21T19:06:08Z",
+            "owner": "influxdata",
+            "repo": "telegraf",
+            "stars": 17764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cacti",
+          "description": "Network monitoring and graphing tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29455529,
+            "language": "PHP",
+            "last_commit": "2026-08-23T21:34:16Z",
+            "owner": "Cacti",
+            "repo": "cacti",
+            "stars": 1858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nagios",
+          "description": "IT infrastructure monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16119670,
+            "language": "C",
+            "last_commit": "2026-08-07T15:49:17Z",
+            "owner": "NagiosEnterprises",
+            "repo": "nagioscore",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkmk",
+          "description": "Monitoring system for IT infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171669368,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:59:49Z",
+            "owner": "Checkmk",
+            "repo": "checkmk",
+            "stars": 2348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreNMS",
+          "description": "Network monitoring system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13914116,
+            "language": "PHP",
+            "last_commit": "2026-08-23T17:01:47Z",
+            "owner": "librenms",
+            "repo": "librenms",
+            "stars": 4845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icinga",
+          "description": "Monitoring system for IT infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12440855,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:05:21Z",
+            "owner": "Icinga",
+            "repo": "icinga2",
+            "stars": 2232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glances",
+          "description": "Cross-platform monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2909429,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:59:11Z",
+            "owner": "nicolargo",
+            "repo": "glances",
+            "stars": 33417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67793333,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:29:59Z",
+            "owner": "cortexproject",
+            "repo": "cortex",
+            "stars": 5853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "Fast, cost-effective and scalable monitoring solution and time series database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150954997,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:44:47Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thanos",
+          "description": "Highly available Prometheus setup with long term storage capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109162639,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:18:33Z",
+            "owner": "thanos-io",
+            "repo": "thanos",
+            "stars": 14183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kapacitor",
+          "description": "Open-source framework for processing, monitoring, and alerting on time series data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41681600,
+            "language": "Go",
+            "last_commit": "2026-08-10T15:38:52Z",
+            "owner": "influxdata",
+            "repo": "kapacitor",
+            "stars": 2375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bosun",
+          "description": "Monitoring and alerting system by Stack Exchange",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 14410778,
+            "language": "Go",
+            "last_commit": "2025-02-13T10:41:49Z",
+            "owner": "bosun-monitor",
+            "repo": "bosun",
+            "stars": 3390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerebro",
+          "description": "Web admin tool for Elasticsearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54560347,
+            "language": "JavaScript",
+            "last_commit": "2024-02-12T09:56:27Z",
+            "owner": "lmenezes",
+            "repo": "cerebro",
+            "stars": 5609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dozzle",
+          "description": "Realtime log viewer for docker containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155297903,
+            "language": "Go",
+            "last_commit": "2026-08-24T02:59:49Z",
+            "owner": "amir20",
+            "repo": "dozzle",
+            "stars": 14172
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seafile",
+          "description": "File hosting and collaboration platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4999959,
+            "language": "C",
+            "last_commit": "2026-08-08T02:47:29Z",
+            "owner": "haiwen",
+            "repo": "seafile",
+            "stars": 15165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncthing",
+          "description": "Continuous file synchronization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14712850,
+            "language": "Go",
+            "last_commit": "2026-08-24T04:29:41Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ownCloud",
+          "description": "File hosting software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5550552,
+            "language": "PHP",
+            "last_commit": "2026-08-24T03:38:45Z",
+            "owner": "owncloud",
+            "repo": "core",
+            "stars": 8830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FileBrowser",
+          "description": "Web File Browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42332863,
+            "language": "Go",
+            "last_commit": "2026-07-31T10:06:58Z",
+            "owner": "filebrowser",
+            "repo": "filebrowser",
+            "stars": 35925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pydio Cells",
+          "description": "Content collaboration platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126603957,
+            "language": "Go",
+            "last_commit": "2026-08-20T06:00:18Z",
+            "owner": "pydio",
+            "repo": "cells",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minio",
+          "description": "High-performance object storage",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29261473,
+            "language": "Go",
+            "last_commit": "2026-04-24T17:54:39Z",
+            "owner": "minio",
+            "repo": "minio",
+            "stars": 61382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextcloud",
+          "description": "Productivity platform for file hosting and collaboration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63169079,
+            "language": "Shell",
+            "last_commit": "2026-08-14T11:58:57Z",
+            "owner": "nextcloud",
+            "repo": "docker",
+            "stars": 7353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cozy",
+          "description": "Personal cloud server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63433838,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:39:27Z",
+            "owner": "linagora",
+            "repo": "cozy-stack",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinto",
+          "description": "Minimalist JSON storage service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31315021,
+            "language": "Python",
+            "last_commit": "2026-08-14T06:42:31Z",
+            "owner": "Kinto",
+            "repo": "kinto",
+            "stars": 4416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjectSend",
+          "description": "Clients-oriented file uploading platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17659600,
+            "language": "PHP",
+            "last_commit": "2026-08-24T02:59:54Z",
+            "owner": "projectsend",
+            "repo": "projectsend",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caddy",
+          "description": "Fast, multi-platform web server with automatic HTTPS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29207621,
+            "language": "Go",
+            "last_commit": "2026-08-22T03:17:26Z",
+            "owner": "caddyserver",
+            "repo": "caddy",
+            "stars": 75167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samba",
+          "description": "Free software re-implementation of the SMB/CIFS networking protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38905297,
+            "language": "C",
+            "last_commit": "2026-08-20T17:00:30Z",
+            "owner": "samba-team",
+            "repo": "samba",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zenko",
+          "description": "Open-source multi-cloud data controller",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93576430,
+            "language": "Gherkin",
+            "last_commit": "2026-08-22T08:22:19Z",
+            "owner": "scality",
+            "repo": "Zenko",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeaweedFS",
+          "description": "Distributed file system to store and serve billions of files fast",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128557039,
+            "language": "Go",
+            "last_commit": "2026-07-21T07:44:51Z",
+            "owner": "chrislusf",
+            "repo": "seaweedfs",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ceph",
+          "description": "Distributed object, block, and file storage platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2310495,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:45:21Z",
+            "owner": "ceph",
+            "repo": "ceph",
+            "stars": 16960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlusterFS",
+          "description": "Scale-out network-attached storage file system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1377037,
+            "language": "C",
+            "last_commit": "2026-08-22T08:07:03Z",
+            "owner": "gluster",
+            "repo": "glusterfs",
+            "stars": 5218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMediaVault",
+          "description": "Next generation network attached storage solution based on Debian Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57961433,
+            "language": "PHP",
+            "last_commit": "2026-08-21T13:39:16Z",
+            "owner": "openmediavault",
+            "repo": "openmediavault",
+            "stars": 6914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XigmaNAS",
+          "description": "Open-source NAS (Network-Attached Storage) distribution based on FreeBSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 824765989,
+            "language": null,
+            "last_commit": "2024-07-05T23:21:36Z",
+            "owner": "XigmaNAS",
+            "repo": "xigmanas",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeNAS",
+          "description": "Open-source network-attached storage operating system based on FreeBSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8627760,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:01:40Z",
+            "owner": "truenas",
+            "repo": "middleware",
+            "stars": 2585
+          }
+        }
+      ],
+      "title": "File Sharing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Home Assistant",
+          "description": "Open source home automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12888993,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:52:52Z",
+            "owner": "home-assistant",
+            "repo": "core",
+            "stars": 90087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHAB",
+          "description": "Vendor and technology agnostic open source automation software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48337670,
+            "language": "Java",
+            "last_commit": "2026-08-24T06:10:15Z",
+            "owner": "openhab",
+            "repo": "openhab-core",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domoticz",
+          "description": "Home Automation System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40759227,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:31:03Z",
+            "owner": "domoticz",
+            "repo": "domoticz",
+            "stars": 3792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED",
+          "description": "Flow-based programming for the Internet of Things",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12618379,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T12:33:31Z",
+            "owner": "node-red",
+            "repo": "node-red",
+            "stars": 23572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPHome",
+          "description": "System to control your ESP8266/ESP32",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128479644,
+            "language": "C++",
+            "last_commit": "2026-08-24T03:50:20Z",
+            "owner": "esphome",
+            "repo": "esphome",
+            "stars": 11585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homebridge",
+          "description": "HomeKit support for the impatient",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27388642,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T22:34:28Z",
+            "owner": "homebridge",
+            "repo": "homebridge",
+            "stars": 25463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ioBroker",
+          "description": "Integration platform for the Internet of Things",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22886718,
+            "language": "Shell",
+            "last_commit": "2026-08-15T18:47:43Z",
+            "owner": "ioBroker",
+            "repo": "ioBroker",
+            "stars": 1374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gladys",
+          "description": "Home Assistant for smart living",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36928490,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:50:37Z",
+            "owner": "GladysAssistant",
+            "repo": "Gladys",
+            "stars": 3155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeedom",
+          "description": "Home automation platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26161892,
+            "language": "PHP",
+            "last_commit": "2026-08-24T00:27:07Z",
+            "owner": "jeedom",
+            "repo": "core",
+            "stars": 414
+          }
+        }
+      ],
+      "title": "Home Automation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matomo",
+          "description": "Web analytics platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1548202,
+            "language": "PHP",
+            "last_commit": "2026-08-24T13:51:04Z",
+            "owner": "matomo-org",
+            "repo": "matomo",
+            "stars": 21801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible",
+          "description": "Lightweight and privacy-friendly web analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160427405,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T13:52:38Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Simple, fast, privacy-focused alternative to Google Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280363952,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T18:26:22Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ackee",
+          "description": "Self-hosted analytics tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18831920,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T10:30:14Z",
+            "owner": "electerious",
+            "repo": "Ackee",
+            "stars": 4692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoAccess",
+          "description": "Real-time web log analyzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11397939,
+            "language": "C",
+            "last_commit": "2026-08-20T00:08:16Z",
+            "owner": "allinurl",
+            "repo": "goaccess",
+            "stars": 20834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabase",
+          "description": "Business intelligence and analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30203935,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T14:00:18Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redash",
+          "description": "Make sense of your data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13926404,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:14:11Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Countly",
+          "description": "Product analytics platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4473517,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T01:23:05Z",
+            "owner": "Countly",
+            "repo": "countly-server",
+            "stars": 5891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Open-source product analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235901813,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:00:15Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 38852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fathom",
+          "description": "Simple, privacy-focused website analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74236755,
+            "language": "Go",
+            "last_commit": "2026-03-18T09:11:04Z",
+            "owner": "usefathom",
+            "repo": "fathom",
+            "stars": 8015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vince",
+          "description": "Self Hosted Alternative To Google Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648607331,
+            "language": "Go",
+            "last_commit": "2025-09-01T07:17:47Z",
+            "owner": "vinceanalytics",
+            "repo": "vince",
+            "stars": 2014
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pi-hole",
+          "description": "Network-wide ad blocking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50894333,
+            "language": "Shell",
+            "last_commit": "2026-08-09T04:46:47Z",
+            "owner": "pi-hole",
+            "repo": "docker-pi-hole",
+            "stars": 11498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreshRSS",
+          "description": "Self-hosted RSS feed aggregator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6322699,
+            "language": "PHP",
+            "last_commit": "2026-08-21T20:49:52Z",
+            "owner": "FreshRSS",
+            "repo": "FreshRSS",
+            "stars": 15822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wallabag",
+          "description": "Save and classify articles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9193949,
+            "language": "PHP",
+            "last_commit": "2026-08-24T05:35:25Z",
+            "owner": "wallabag",
+            "repo": "wallabag",
+            "stars": 12929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tandoor Recipes",
+          "description": "Recipe manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221546437,
+            "language": "HTML",
+            "last_commit": "2026-08-24T07:45:49Z",
+            "owner": "TandoorRecipes",
+            "repo": "recipes",
+            "stars": 8555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shiori",
+          "description": "Simple bookmark manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118617559,
+            "language": "Go",
+            "last_commit": "2026-07-10T06:36:40Z",
+            "owner": "go-shiori",
+            "repo": "shiori",
+            "stars": 11612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speedtest",
+          "description": "Self-hosted speed test",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53131903,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T08:36:57Z",
+            "owner": "librespeed",
+            "repo": "speedtest",
+            "stars": 15100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papermerge",
+          "description": "Document management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232151602,
+            "language": "Python",
+            "last_commit": "2025-11-23T11:52:05Z",
+            "owner": "ciur",
+            "repo": "papermerge",
+            "stars": 2934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calibre-web",
+          "description": "Web app for browsing, reading, and downloading eBooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40089578,
+            "language": "Fluent",
+            "last_commit": "2026-08-23T15:13:35Z",
+            "owner": "janeczku",
+            "repo": "calibre-web",
+            "stars": 18046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefly III",
+          "description": "Personal finances manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21298446,
+            "language": "PHP",
+            "last_commit": "2026-08-24T12:34:02Z",
+            "owner": "firefly-iii",
+            "repo": "firefly-iii",
+            "stars": 24407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homer",
+          "description": "A dead simple static homepage for your server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137308006,
+            "language": "Vue",
+            "last_commit": "2026-08-07T14:51:57Z",
+            "owner": "bastienwirtz",
+            "repo": "homer",
+            "stars": 11571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astuto",
+          "description": "Customer feedback tool to collect, manage and prioritize feedback from your users",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 203002681,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T17:46:45Z",
+            "owner": "astuto",
+            "repo": "astuto",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress",
+          "description": "Run WordPress, MariaDB and phpMyAdmin in Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272184382,
+            "language": "Makefile",
+            "last_commit": "2026-06-01T07:24:16Z",
+            "owner": "GSCloud",
+            "repo": "docker_wordpress",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T16:56:18.988Z",
+    "last_updated": "2026-08-24T14:00:14.367Z",
     "original_repository": "hotheadhacker/awesome-selfhost-docker",
     "original_repository_id": 828972950,
     "original_repository_sha": "b41018f9a4f62db6c490ede8a96148b1259dcb8b",
