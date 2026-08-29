@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community maintained docker micro-image for deploying Nextcloud on container platforms",
+            "homepage": "https://hub.docker.com/_/nextcloud/",
             "id": 63169079,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T19:21:37Z",
+            "open_issues": 144,
             "owner": "nextcloud",
             "repo": "docker",
-            "stars": 7352
+            "stars": 7352,
+            "topics": [
+              "docker",
+              "docker-image",
+              "nextcloud",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -26,12 +36,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+            "homepage": "https://joplinapp.org",
             "id": 79162682,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:56:20Z",
+            "open_issues": 621,
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 56142
+            "stars": 56144,
+            "topics": [
+              "android",
+              "dropbox",
+              "electron",
+              "enex-files",
+              "evernote",
+              "javascript",
+              "joplin",
+              "nextcloud",
+              "nodejs",
+              "note-taking",
+              "notesnook",
+              "obsidian",
+              "onedrive",
+              "react-native",
+              "standardnotes",
+              "synchronisation",
+              "web-clipper",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -42,12 +76,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A supercharged version of paperless: scan, index and archive all your physical documents",
+            "homepage": "https://paperless-ng.readthedocs.io/en/latest/",
             "id": 138872921,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-14T14:55:33Z",
+            "open_issues": 246,
             "owner": "jonaswinkler",
             "repo": "paperless-ng",
-            "stars": 5414
+            "stars": 5414,
+            "topics": [
+              "angular",
+              "archiving",
+              "django",
+              "dms",
+              "document-management-system",
+              "full-text-search",
+              "machine-learning",
+              "ocr",
+              "search"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -58,12 +107,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NOW MANAGED ON CODEBERG",
+            "homepage": "https://codeberg.org/bookstack/bookstack",
             "id": 41589337,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:44:42Z",
+            "open_issues": 1,
             "owner": "BookStackApp",
             "repo": "BookStack",
-            "stars": 19006
+            "stars": 19006,
+            "topics": [
+              "bookstack",
+              "documentation",
+              "laravel",
+              "php",
+              "selfhosted",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -74,12 +135,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your personal knowledge base with Trilium Notes",
+            "homepage": "https://triliumnotes.org",
             "id": 92111509,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T00:36:17Z",
+            "open_issues": 709,
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37625
+            "stars": 37626,
+            "topics": [
+              "electron",
+              "electron-app",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-management-graph",
+              "local-first",
+              "note-managment",
+              "note-taker",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "personal-knowledge-base",
+              "personal-wiki",
+              "scriptable",
+              "self-hosted",
+              "self-hosting",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -90,12 +176,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HedgeDoc - Ideas grow better together",
+            "homepage": "https://hedgedoc.org",
             "id": 177987738,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T13:17:42Z",
+            "open_issues": 268,
             "owner": "hedgedoc",
             "repo": "hedgedoc",
-            "stars": 7386
+            "stars": 7386,
+            "topics": [
+              "codimd",
+              "collaboration",
+              "diagrams",
+              "editor",
+              "hackmd",
+              "hacktoberfest",
+              "hedgedoc",
+              "markdown",
+              "notes",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -106,12 +208,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/data/en.i18n.json, other translations at https://app.transifex.com/wekan/wekan",
+            "homepage": "https://wekan.fi",
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T15:21:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:32:56Z",
+            "open_issues": 281,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21068
+            "stars": 21068,
+            "topics": [
+              "docker-image",
+              "foss",
+              "javascript",
+              "kanban",
+              "meteor",
+              "real-time",
+              "sandstorm",
+              "snapcraft",
+              "wekan"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -122,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main repository of the zim desktop wiki project",
+            "homepage": "http://zim-wiki.org",
             "id": 87575093,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T16:49:28Z",
+            "open_issues": 448,
             "owner": "zim-desktop-wiki",
             "repo": "zim-desktop-wiki",
-            "stars": 2197
+            "stars": 2197,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -138,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Server ecosystem for Standard Notes; fully self-hostable.",
+            "homepage": "https://standardnotes.com/help/self-hosting/docker",
             "id": 504488350,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-11T03:02:39Z",
+            "open_issues": 71,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -154,12 +281,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kanban project management software",
+            "homepage": "https://kanboard.org",
             "id": 16238673,
             "language": "PHP",
-            "last_commit": "2026-08-28T21:51:18Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:29:28Z",
+            "open_issues": 157,
             "owner": "kanboard",
             "repo": "kanboard",
-            "stars": 9830
+            "stars": 9830,
+            "topics": [
+              "agile",
+              "kanban",
+              "kanboard",
+              "project-management",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -170,12 +308,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Etherpad: A modern really-real-time collaborative document editor.",
+            "homepage": "https://etherpad.org",
             "id": 1529160,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:41:41Z",
+            "open_issues": 22,
             "owner": "ether",
             "repo": "etherpad",
-            "stars": 18512
+            "stars": 18513,
+            "topics": [
+              "collaboration",
+              "collaborative",
+              "collaborative-ai",
+              "collaborative-editing",
+              "collaborative-framework",
+              "collaborative-research",
+              "collaborative-writing",
+              "document",
+              "documents",
+              "etherpad",
+              "pdf-generation",
+              "rich-text-editor",
+              "video-conference",
+              "video-conferencing",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -186,12 +345,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",
+            "homepage": null,
             "id": 34124070,
             "language": "Shell",
-            "last_commit": "2026-08-28T01:25:27Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T01:29:20Z",
+            "open_issues": 28,
             "owner": "ONLYOFFICE",
             "repo": "Docker-DocumentServer",
-            "stars": 2396
+            "stars": 2396,
+            "topics": [
+              "docker-image",
+              "onlyoffice"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -202,12 +369,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative office suite, end-to-end encrypted and open-source.",
+            "homepage": "https://cryptpad.org",
             "id": 26022284,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T15:10:09Z",
+            "open_issues": 392,
             "owner": "cryptpad",
             "repo": "cryptpad",
-            "stars": 7869
+            "stars": 7869,
+            "topics": [
+              "chainpad",
+              "collaboration",
+              "collaborative-editing",
+              "cryptpad",
+              "e2ee",
+              "end-to-end-encryption",
+              "javascript",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -218,12 +399,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "homepage": "https://www.getoutline.com",
             "id": 59435364,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:32:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:59:37Z",
+            "open_issues": 82,
             "owner": "outline",
             "repo": "outline",
-            "stars": 40363
+            "stars": 40367,
+            "topics": [
+              "docker",
+              "javascript",
+              "mobx",
+              "nodejs",
+              "react",
+              "slack",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -234,12 +428,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeeWX code repository",
+            "homepage": "http://weewx.com",
             "id": 30899362,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T23:01:01Z",
+            "open_issues": 16,
             "owner": "weewx",
             "repo": "weewx",
-            "stars": 1190
+            "stars": 1190,
+            "topics": [
+              "fine-offset",
+              "python",
+              "raspberry-pi",
+              "vantage-pro",
+              "weather",
+              "weather-underground",
+              "weewx"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -250,12 +457,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+            "homepage": "https://www.kimai.org",
             "id": 71485542,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T03:32:59Z",
+            "open_issues": 342,
             "owner": "kimai",
             "repo": "kimai",
-            "stars": 4950
+            "stars": 4950,
+            "topics": [
+              "doctrine",
+              "invoice",
+              "invoicing",
+              "kimai",
+              "multilanguage",
+              "php",
+              "self-hosted",
+              "symfony",
+              "tabler",
+              "time-tracker",
+              "time-tracking",
+              "timetracker",
+              "timetracking",
+              "timetrackingapp",
+              "twig"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -266,12 +494,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trello like kanban board. Based on Restya platform.",
+            "homepage": "http://restya.com/board/",
             "id": 36856044,
             "language": "JavaScript",
+            "license": "OSL-3.0",
             "last_commit": "2023-10-26T05:50:00Z",
+            "open_issues": 189,
             "owner": "RestyaPlatform",
             "repo": "board",
-            "stars": 2088
+            "stars": 2089,
+            "topics": [
+              "kanban-board",
+              "restyaboard",
+              "trello"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -282,12 +519,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source project management tool with Kanban boards",
+            "homepage": null,
             "id": 268405433,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-23T18:48:35Z",
+            "open_issues": 22,
             "owner": "JordanKnott",
             "repo": "taskcafe",
-            "stars": 5210
+            "stars": 5210,
+            "topics": [
+              "golang",
+              "gqlgen",
+              "graphql",
+              "kanban-board",
+              "project-management",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -298,12 +548,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "homepage": "https://www.focalboard.com",
             "id": 301793434,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T16:05:00Z",
+            "open_issues": 784,
             "owner": "mattermost-community",
             "repo": "focalboard",
-            "stars": 26438
+            "stars": 26438,
+            "topics": [
+              "asana",
+              "collaboration",
+              "goal-tracking",
+              "golang",
+              "hacktoberfest",
+              "kanban-board",
+              "notion",
+              "project",
+              "project-management",
+              "trello"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -314,12 +580,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+            "homepage": "https://appflowy.com",
             "id": 377496562,
             "language": "Dart",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T06:32:59Z",
+            "open_issues": 1008,
             "owner": "AppFlowy-IO",
             "repo": "AppFlowy",
-            "stars": 76045
+            "stars": 76046,
+            "topics": [
+              "blog",
+              "confluence-alternative",
+              "content-management",
+              "content-services",
+              "documentation",
+              "flutter",
+              "note-taking",
+              "notion-alternative",
+              "project-management",
+              "task-management",
+              "team-collaboration",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -330,12 +614,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "homepage": "https://huly.io",
             "id": 392073243,
             "language": "TypeScript",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-27T13:24:38Z",
+            "open_issues": 848,
             "owner": "hcengineering",
             "repo": "platform",
-            "stars": 27484
+            "stars": 27485,
+            "topics": [
+              "applicant-tracking-system",
+              "chat-application",
+              "crm",
+              "crm-platform",
+              "hrms",
+              "human-resources",
+              "issue-management",
+              "issue-tracker",
+              "jira-alternative",
+              "project-management",
+              "qms",
+              "support",
+              "team-management",
+              "team-platform",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -352,12 +657,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+            "homepage": "https://gitea.com",
             "id": 72495579,
             "language": "Go",
-            "last_commit": "2026-08-28T22:05:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:49:04Z",
+            "open_issues": 2524,
             "owner": "go-gitea",
             "repo": "gitea",
-            "stars": 57664
+            "stars": 57665,
+            "topics": [
+              "bitbucket",
+              "cicd",
+              "devops",
+              "docker-registry-v2",
+              "git",
+              "git-gui",
+              "git-lfs",
+              "git-server",
+              "gitea",
+              "github",
+              "github-actions",
+              "gitlab",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "maven-server",
+              "npm-registry",
+              "self-hosted",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -368,12 +699,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+            "homepage": "https://www.harness.io/open-source",
             "id": 16607898,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:12:09Z",
+            "open_issues": 103,
             "owner": "harness",
             "repo": "harness",
-            "stars": 38155
+            "stars": 38157,
+            "topics": [
+              "build-automation",
+              "build-pipelines",
+              "ci",
+              "ci-cd",
+              "code-repository",
+              "continuous-delivery",
+              "continuous-integration",
+              "docker",
+              "git",
+              "go",
+              "hacktoberfest",
+              "scm"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -384,12 +733,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker official jenkins repo",
+            "homepage": "https://hub.docker.com/r/jenkins/jenkins",
             "id": 21969270,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:12:55Z",
+            "open_issues": 17,
             "owner": "jenkinsci",
             "repo": "docker",
-            "stars": 7619
+            "stars": 7619,
+            "topics": [
+              "docker",
+              "hacktoberfest",
+              "jenkins"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -400,12 +758,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The painless way to host your own Git service",
+            "homepage": "https://gogs.io",
             "id": 16752620,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:52:34Z",
+            "open_issues": 1007,
             "owner": "gogs",
             "repo": "gogs",
-            "stars": 47782
+            "stars": 47782,
+            "topics": [
+              "docker",
+              "git",
+              "go",
+              "gogs",
+              "mysql",
+              "postgresql",
+              "raspberry-pi",
+              "self-hosted",
+              "source-code-management",
+              "sqlite3",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -416,12 +791,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Docker and Kubernetes management easy.",
+            "homepage": "https://www.portainer.io",
             "id": 59239347,
             "language": "TypeScript",
+            "license": "Zlib",
             "last_commit": "2026-08-28T17:00:23Z",
+            "open_issues": 745,
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38367
+            "stars": 38367,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-container",
+              "docker-deployment",
+              "docker-image",
+              "docker-swarm",
+              "docker-ui",
+              "dockerfile",
+              "hacktoberfest",
+              "kubernetes",
+              "moby",
+              "portainer",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -432,12 +826,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: SonarQube in Docker",
+            "homepage": "https://hub.docker.com/_/sonarqube/",
             "id": 35156663,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T11:22:31Z",
+            "open_issues": 3,
             "owner": "SonarSource",
             "repo": "docker-sonarqube",
-            "stars": 1562
+            "stars": 1562,
+            "topics": [
+              "docker",
+              "docker-image",
+              "sonarqube"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -448,12 +851,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+            "homepage": "https://develop.sentry.dev/self-hosted/",
             "id": 51547791,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:29:23Z",
+            "open_issues": 134,
             "owner": "getsentry",
             "repo": "self-hosted",
-            "stars": 9520
+            "stars": 9523,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "fair-source",
+              "hacktoberfest",
+              "on-premise",
+              "self-hosted",
+              "sentry",
+              "tag-production"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -464,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 357894794,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-04T11:59:13Z",
+            "open_issues": 94,
             "owner": "taigaio",
             "repo": "taiga-back",
-            "stars": 848
+            "stars": 848,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -480,12 +902,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effective June 1, 2021: Phabricator is no longer actively maintained.",
+            "homepage": "http://phacility.com/phabricator/",
             "id": 1280180,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-12T10:28:40Z",
+            "open_issues": 3,
             "owner": "phacility",
             "repo": "phabricator",
-            "stars": 12298
+            "stars": 12298,
+            "topics": [
+              "git",
+              "hg",
+              "phabricator",
+              "php",
+              "svn"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -496,12 +929,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VS Code in the browser",
+            "homepage": "https://coder.com",
             "id": 172953845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:46:23Z",
+            "open_issues": 150,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79104
+            "stars": 79104,
+            "topics": [
+              "browser-ide",
+              "dev-tools",
+              "development-environment",
+              "ide",
+              "remote-work",
+              "vscode",
+              "vscode-remote"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -512,12 +958,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+            "homepage": "http://theia-ide.org",
             "id": 83050680,
             "language": "TypeScript",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-28T17:08:16Z",
+            "open_issues": 1493,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21662
+            "stars": 21662,
+            "topics": [
+              "cloud-ide",
+              "editor",
+              "electron",
+              "ide",
+              "language-server-protocol",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -528,12 +986,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-user server for Jupyter notebooks",
+            "homepage": "https://jupyterhub.readthedocs.io",
             "id": 20785986,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T21:48:18Z",
+            "open_issues": 194,
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8333
+            "stars": 8333,
+            "topics": [
+              "ipython",
+              "jupyter-notebook",
+              "jupyterhub",
+              "multi-user",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -544,12 +1013,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+            "homepage": "https://gitbucket.github.io/",
             "id": 9350746,
             "language": "Scala",
-            "last_commit": "2026-08-28T01:27:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:53:44Z",
+            "open_issues": 331,
             "owner": "gitbucket",
             "repo": "gitbucket",
-            "stars": 9400
+            "stars": 9400,
+            "topics": [
+              "git",
+              "gitbucket",
+              "scala",
+              "scalatra"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -560,12 +1039,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)",
+            "homepage": null,
             "id": 47751755,
             "language": "Java",
-            "last_commit": "2026-08-29T00:13:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:11:47Z",
+            "open_issues": 5,
             "owner": "GerritCodeReview",
             "repo": "gerrit",
-            "stars": 1221
+            "stars": 1221,
+            "topics": [
+              "codereview",
+              "gerrit"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -576,12 +1063,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sourcegraph with Docker Compose deployment reference",
+            "homepage": "https://docs.sourcegraph.com/admin/install/docker-compose",
             "id": 153849103,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-27T20:53:25Z",
+            "open_issues": 43,
             "owner": "sourcegraph",
             "repo": "deploy-sourcegraph-docker",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "deployment",
+              "docker",
+              "docker-compose",
+              "repo-type-infrastructure",
+              "sourcegraph"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -592,12 +1090,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodiMD - Realtime collaborative markdown notes on all platforms.",
+            "homepage": "https://hackmd.io/c/codimd-documentation",
             "id": 35017238,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-10-02T02:51:07Z",
+            "open_issues": 352,
             "owner": "hackmdio",
             "repo": "codimd",
-            "stars": 10136
+            "stars": 10136,
+            "topics": [
+              "codimd",
+              "collaboration",
+              "hackmd",
+              "markdown",
+              "notes",
+              "realtime"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -608,12 +1118,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+            "homepage": "https://leantime.io",
             "id": 29745084,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-15T04:20:40Z",
+            "open_issues": 321,
             "owner": "Leantime",
             "repo": "leantime",
-            "stars": 11468
+            "stars": 11469,
+            "topics": [
+              "agile",
+              "asana",
+              "calendar",
+              "clickup",
+              "gantt",
+              "hacktoberfest",
+              "jira",
+              "kanban",
+              "lean",
+              "leantime",
+              "notion",
+              "php",
+              "project-management",
+              "projects",
+              "retrospective",
+              "scrum",
+              "sql",
+              "strategy",
+              "timesheets",
+              "trello"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -624,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The financial transactions database designed for mission critical safety and performance.",
+            "homepage": "https://tigerbeetle.com",
             "id": 254418044,
             "language": "Zig",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:21:57Z",
+            "open_issues": 107,
             "owner": "tigerbeetle",
             "repo": "tigerbeetle",
-            "stars": 16921
+            "stars": 16922,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -640,12 +1181,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Private first self-hosted no code database & BaaS.",
+            "homepage": "https://undb.io",
             "id": 567558968,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-07-13T06:36:16Z",
+            "open_issues": 56,
             "owner": "undb-io",
             "repo": "undb",
-            "stars": 2975
+            "stars": 2975,
+            "topics": [
+              "airtable",
+              "airtable-alternative",
+              "baas",
+              "backend",
+              "backend-as-a-service",
+              "bun",
+              "ddd",
+              "docker",
+              "domain-driven-design",
+              "no-code-database",
+              "nocode",
+              "offline-first",
+              "self-hosted",
+              "sqlite3",
+              "svelte",
+              "sveltekit",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -662,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plex Media Server Docker repo, for all your PMS docker needs.",
+            "homepage": null,
             "id": 75842869,
             "language": "Go Template",
+            "license": null,
             "last_commit": "2026-08-28T13:06:45Z",
+            "open_issues": 6,
             "owner": "plexinc",
             "repo": "pms-docker",
-            "stars": 4022
+            "stars": 4022,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -678,12 +1247,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Free Software Media System - Server Backend & API",
+            "homepage": "https://jellyfin.org",
             "id": 161012019,
             "language": "C#",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T23:35:52Z",
+            "open_issues": 590,
             "owner": "jellyfin",
             "repo": "jellyfin",
-            "stars": 56306
+            "stars": 56313,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "hacktoberfest",
+              "jellyfin"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -694,12 +1273,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)",
+            "homepage": "https://airsonic.github.io",
             "id": 96242277,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-11T21:09:11Z",
+            "open_issues": 431,
             "owner": "airsonic",
             "repo": "airsonic",
-            "stars": 2045
+            "stars": 2045,
+            "topics": [
+              "airsonic",
+              "audio",
+              "dlna",
+              "java",
+              "media-center",
+              "media-server",
+              "music",
+              "self-hosted",
+              "sonos",
+              "streaming",
+              "subsonic",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -710,12 +1307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-Powered Photos App 🌈💎✨",
+            "homepage": "https://www.photoprism.app",
             "id": 119160553,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:26:51Z",
+            "open_issues": 461,
             "owner": "photoprism",
             "repo": "photoprism",
-            "stars": 40117
+            "stars": 40117,
+            "topics": [
+              "ai",
+              "golang",
+              "google-photos",
+              "machine-learning",
+              "photography",
+              "private-cloud",
+              "self-hosted",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -726,12 +1337,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎧 Your Personal Streaming Service ",
+            "homepage": "https://www.navidrome.org",
             "id": 52481933,
             "language": "Go",
-            "last_commit": "2026-08-28T14:04:33Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T02:38:48Z",
+            "open_issues": 274,
             "owner": "navidrome",
             "repo": "navidrome",
-            "stars": 23182
+            "stars": 23189,
+            "topics": [
+              "airsonic",
+              "madsonic",
+              "media-server",
+              "music",
+              "music-server",
+              "navidrome",
+              "opensubsonic",
+              "raspberry-pi",
+              "self-hosted",
+              "streamer",
+              "streaming-api",
+              "streaming-audio",
+              "subsonic",
+              "subsonic-server"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -742,12 +1373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emby Server is a personal media server with apps on just about every device.",
+            "homepage": "https://emby.media",
             "id": 8231466,
             "language": "C#",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-27T18:20:17Z",
+            "open_issues": 142,
             "owner": "MediaBrowser",
             "repo": "Emby",
-            "stars": 4963
+            "stars": 4963,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -758,12 +1394,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Movie organizer/manager for usenet and torrent users.",
+            "homepage": "https://radarr.video",
             "id": 77323220,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T12:12:05Z",
+            "open_issues": 523,
             "owner": "Radarr",
             "repo": "Radarr",
-            "stars": 14248
+            "stars": 14247,
+            "topics": [
+              "bittorrent",
+              "couchpotato",
+              "hacktoberfest",
+              "movie",
+              "movies",
+              "nzb",
+              "torrent",
+              "usenet"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -774,12 +1424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart PVR for newsgroup and bittorrent users.",
+            "homepage": "https://sonarr.tv",
             "id": 2465723,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T19:14:13Z",
+            "open_issues": 96,
             "owner": "Sonarr",
             "repo": "Sonarr",
-            "stars": 15307
+            "stars": 15306,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -790,12 +1445,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Looks and smells like Sonarr but made for music.",
+            "homepage": "http://lidarr.audio/",
             "id": 90468352,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T23:02:07Z",
+            "open_issues": 867,
             "owner": "Lidarr",
             "repo": "Lidarr",
-            "stars": 5599
+            "stars": 5599,
+            "topics": [
+              "hacktoberfest",
+              "music",
+              "nzb",
+              "torrent"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -806,12 +1471,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Less rage, more chill.",
+            "homepage": "https://sickchill.github.io",
             "id": 46151823,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T06:06:56Z",
+            "open_issues": 11,
             "owner": "SickChill",
             "repo": "sickchill",
-            "stars": 2442
+            "stars": 2442,
+            "topics": [
+              "dognzb",
+              "episodes",
+              "kodi",
+              "linux",
+              "media",
+              "nzb",
+              "plex",
+              "rarbg",
+              "season",
+              "series",
+              "shows",
+              "sickbeard",
+              "sickchill",
+              "torrent",
+              "torrents",
+              "tv",
+              "tvdb",
+              "videos",
+              "windows",
+              "xem"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -822,12 +1513,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AirPlay and AirPlay 2 audio player",
+            "homepage": null,
             "id": 19316865,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:22:07Z",
+            "open_issues": 19,
             "owner": "mikebrady",
             "repo": "shairport-sync",
-            "stars": 8827
+            "stars": 8827,
+            "topics": [
+              "airplay",
+              "airplay-2",
+              "audio",
+              "audio-player",
+              "audio-streaming",
+              "embedded-systems",
+              "multi-room-audio",
+              "multi-speaker",
+              "synchronized-audio"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -838,12 +1544,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music streaming solution that works.",
+            "homepage": "https://koel.dev",
             "id": 47495360,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:35:45Z",
+            "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17236
+            "stars": 17237,
+            "topics": [
+              "audio",
+              "hacktoberfest",
+              "laravel",
+              "music",
+              "music-player",
+              "streaming",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -854,12 +1573,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio server that can play to AirPlay 1+2 speakers (multiroom), Chromecast and locally. Supports Spotify, internet radio and many file formats. Also MPD server, iTunes DAAP, smart playlists, Apple Remote and much more.",
+            "homepage": "https://owntone.github.io/owntone-server",
             "id": 10263553,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T19:24:30Z",
+            "open_issues": 119,
             "owner": "owntone",
             "repo": "owntone-server",
-            "stars": 2546
+            "stars": 2546,
+            "topics": [
+              "airplay",
+              "airplay2",
+              "apple-remote",
+              "c",
+              "chromecast-audio",
+              "daap",
+              "daapd",
+              "internet-radio",
+              "itunes",
+              "mpd",
+              "spotify"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -870,12 +1606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.",
+            "homepage": "http://ampache.org",
             "id": 8933498,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T05:38:41Z",
+            "open_issues": 383,
             "owner": "ampache",
             "repo": "ampache",
-            "stars": 3826
+            "stars": 3825,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -886,12 +1627,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibreTime: Radio Broadcast & Automation Platform",
+            "homepage": "http://libretime.org",
             "id": 82463450,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-23T06:48:22Z",
+            "open_issues": 177,
             "owner": "libretime",
             "repo": "libretime",
-            "stars": 942
+            "stars": 942,
+            "topics": [
+              "airtime",
+              "audio",
+              "audio-applications",
+              "audio-library",
+              "broadcast",
+              "broadcasting",
+              "hacktoberfest",
+              "libretime",
+              "liquidsoap",
+              "online-radio",
+              "radio",
+              "radio-station"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -902,12 +1661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic music downloader for SABnzbd",
+            "homepage": null,
             "id": 1779181,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-08T05:28:27Z",
+            "open_issues": 532,
             "owner": "rembo10",
             "repo": "headphones",
-            "stars": 3753
+            "stars": 3753,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -918,12 +1682,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "music library manager and MusicBrainz tagger",
+            "homepage": "http://beets.io/",
             "id": 827590,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:55:50Z",
+            "open_issues": 715,
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15597
+            "stars": 15597,
+            "topics": [
+              "cli",
+              "hacktoberfest",
+              "music",
+              "music-library",
+              "musicbrainz",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -934,12 +1710,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mopidy is an extensible music server written in Python",
+            "homepage": "https://mopidy.com",
             "id": 447036,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T05:49:19Z",
+            "open_issues": 225,
             "owner": "mopidy",
             "repo": "mopidy",
-            "stars": 8564
+            "stars": 8564,
+            "topics": [
+              "mopidy",
+              "music-player",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -950,12 +1735,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!",
+            "homepage": "https://piwigo.org",
             "id": 39682214,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T04:34:13Z",
+            "open_issues": 747,
             "owner": "Piwigo",
             "repo": "Piwigo",
-            "stars": 3844
+            "stars": 3844,
+            "topics": [
+              "cms",
+              "image-gallery",
+              "open-source",
+              "photo-gallery",
+              "photography",
+              "php",
+              "piwigo",
+              "privacy",
+              "self-hosting",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -966,12 +1767,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.",
+            "homepage": "https://prowlarr.com",
             "id": 305021589,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T20:38:14Z",
+            "open_issues": 130,
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7107
+            "stars": 7109,
+            "topics": [
+              "hacktoberfest",
+              "indexer",
+              "nzb",
+              "radarr",
+              "sonarr",
+              "torrent"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -982,12 +1795,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "best way to save what you love",
+            "homepage": "https://cobalt.tools",
             "id": 511987144,
             "language": "Svelte",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-06T11:59:56Z",
+            "open_issues": 266,
             "owner": "imputnet",
             "repo": "cobalt",
-            "stars": 42420
+            "stars": 42424,
+            "topics": [
+              "collaboration",
+              "downloader",
+              "instagram",
+              "javascript",
+              "music",
+              "reddit",
+              "social-media",
+              "soundcloud",
+              "svelte",
+              "tiktok",
+              "twitter",
+              "typescript",
+              "video",
+              "vimeo",
+              "vk",
+              "webapp",
+              "youtube",
+              "youtube-downloader"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -998,12 +1835,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted audiobook and podcast server",
+            "homepage": "https://audiobookshelf.org",
             "id": 397401267,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T23:10:15Z",
+            "open_issues": 1151,
             "owner": "advplyr",
             "repo": "audiobookshelf",
-            "stars": 14170
+            "stars": 14170,
+            "topics": [
+              "audiobook-manager",
+              "audiobooks",
+              "audiobookshelf",
+              "podcasts",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1014,12 +1862,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!",
+            "homepage": "https://giuseppe99barchetta.github.io/SuggestArr/",
             "id": 872358547,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:36:08Z",
+            "open_issues": 14,
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
-            "stars": 1294
+            "stars": 1294,
+            "topics": [
+              "automation",
+              "docker",
+              "emby",
+              "jellyfin",
+              "jellyseerr",
+              "llm",
+              "media-automation",
+              "ombi",
+              "open-source",
+              "openai",
+              "overseerr",
+              "plex",
+              "self-hosted",
+              "tmdb",
+              "trakt"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -1036,12 +1905,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Secure CommsOS™ for mission-critical operations",
+            "homepage": "https://rocket.chat/",
             "id": 35866694,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:22:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:43:33Z",
+            "open_issues": 4004,
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46041
+            "stars": 46042,
+            "topics": [
+              "chat",
+              "collaboration",
+              "foss",
+              "free",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mit",
+              "real-time",
+              "slack",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1052,12 +1938,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synapse: Matrix homeserver written in Python/Twisted.",
+            "homepage": "https://matrix-org.github.io/synapse",
             "id": 22844864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T15:47:23Z",
+            "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12104
+            "stars": 12104,
+            "topics": [
+              "matrix-org",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1068,12 +1962,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jitsi Meet on Docker",
+            "homepage": "https://github.com/orgs/jitsi/packages?repo_name=docker-jitsi-meet",
             "id": 141265446,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:13:42Z",
+            "open_issues": 14,
             "owner": "jitsi",
             "repo": "docker-jitsi-meet",
-            "stars": 3604
+            "stars": 3604,
+            "topics": [
+              "docker",
+              "jitsi",
+              "jitsi-meet",
+              "video-conferencing"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1084,12 +1988,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "homepage": "https://zulip.com",
             "id": 43160685,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:24:40Z",
+            "open_issues": 2048,
             "owner": "zulip",
             "repo": "zulip",
-            "stars": 25785
+            "stars": 25785,
+            "topics": [
+              "apache",
+              "chat",
+              "collaboration",
+              "electron",
+              "foss",
+              "free",
+              "javascript",
+              "python",
+              "python3",
+              "react-native",
+              "slack",
+              "zulip"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1100,12 +2022,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
+            "homepage": "https://www.mumble.info",
             "id": 1413319,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T17:18:08Z",
+            "open_issues": 481,
             "owner": "mumble-voip",
             "repo": "mumble",
-            "stars": 8226
+            "stars": 8226,
+            "topics": [
+              "audio",
+              "client",
+              "cmake",
+              "cross-platform",
+              "gaming",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "open-source",
+              "quality-voice-chat",
+              "server",
+              "voicechat",
+              "voip",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1116,12 +2058,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "homepage": "https://mattermost.com",
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:15:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:05:43Z",
+            "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38934
+            "stars": 38936,
+            "topics": [
+              "collaboration",
+              "golang",
+              "hacktoberfest",
+              "mattermost",
+              "monorepo",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1132,12 +2087,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A glossy Matrix collaboration client for the web.",
+            "homepage": "https://element.io",
             "id": 39487546,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:05:31Z",
+            "open_issues": 3815,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13407
+            "stars": 13408,
+            "topics": [
+              "hacktoberfest",
+              "matrix"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1148,12 +2111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docker image for Discourse",
+            "homepage": "http://www.discourse.org",
             "id": 13973168,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:37:32Z",
+            "open_issues": 17,
             "owner": "discourse",
             "repo": "discourse_docker",
-            "stars": 1860
+            "stars": 1860,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1164,12 +2132,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+            "homepage": "https://postalserver.io",
             "id": 88740103,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-18T02:35:19Z",
+            "open_issues": 89,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16772
+            "stars": 16772,
+            "topics": [
+              "mail",
+              "mail-server",
+              "postal",
+              "ruby",
+              "smtp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1180,12 +2159,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insular email distribution - mail server as Docker images",
+            "homepage": "https://mailu.io",
             "id": 49386559,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T12:04:49Z",
+            "open_issues": 125,
             "owner": "Mailu",
             "repo": "Mailu",
-            "stars": 7478
+            "stars": 7478,
+            "topics": [
+              "dkim",
+              "dmarc",
+              "docker",
+              "docker-compose",
+              "email",
+              "fetchmail",
+              "imap",
+              "letsencrypt",
+              "mail",
+              "mailserver",
+              "pop3",
+              "smtp",
+              "webmail"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1196,12 +2194,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)",
+            "homepage": null,
             "id": 44820350,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-12T00:20:34Z",
+            "open_issues": 342,
             "owner": "42wim",
             "repo": "matterbridge",
-            "stars": 7554
+            "stars": 7554,
+            "topics": [
+              "bridge",
+              "counter-strike",
+              "discord",
+              "facebook-messenger",
+              "gitter",
+              "irc",
+              "matrix",
+              "mattermost",
+              "microsoft-teams",
+              "minecraft-chat",
+              "mumble",
+              "nextcloud",
+              "rocketchat",
+              "slack",
+              "telegram",
+              "twitch",
+              "vk",
+              "whatsapp",
+              "xmpp",
+              "zulip"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1212,12 +2236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌎 A completely free and open interplanetary-microblogging platform 🚀",
+            "homepage": "https://misskey-hub.net/",
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:13:05Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:14:23Z",
+            "open_issues": 2533,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11305
+            "stars": 11305,
+            "topics": [
+              "activitypub",
+              "federation",
+              "fediverse",
+              "microblog",
+              "misskey"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1228,12 +2263,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Friendica Communications Platform",
+            "homepage": "https://friendi.ca",
             "id": 2722709,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T15:31:05Z",
+            "open_issues": 1443,
             "owner": "friendica",
             "repo": "friendica",
-            "stars": 1685
+            "stars": 1685,
+            "topics": [
+              "federation",
+              "fediverse",
+              "hacktoberfest",
+              "mariadb",
+              "php",
+              "self-hosted",
+              "social-media",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1244,12 +2293,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-aware, distributed, open source social network.",
+            "homepage": "https://diasporafoundation.org/",
             "id": 911765,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-28T20:36:26Z",
+            "open_issues": 425,
             "owner": "diaspora",
             "repo": "diaspora",
-            "stars": 13654
+            "stars": 13654,
+            "topics": [
+              "decentralized",
+              "distributed",
+              "federated",
+              "hacktoberfest",
+              "rails",
+              "ruby",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1260,12 +2322,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Movim - Decentralized social platform",
+            "homepage": "https://movim.eu",
             "id": 37983532,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T16:22:15Z",
+            "open_issues": 41,
             "owner": "movim",
             "repo": "movim",
-            "stars": 2049
+            "stars": 2049,
+            "topics": [
+              "chat",
+              "instant-messaging",
+              "movim",
+              "php",
+              "social-network",
+              "xmpp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1276,12 +2350,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).",
+            "homepage": "https://www.scuttlebutt.nz",
             "id": 37995048,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2021-05-12T06:57:58Z",
+            "open_issues": 0,
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3569
+            "stars": 3569,
+            "topics": [
+              "decentralized",
+              "decentralized-messaging",
+              "electron",
+              "javascript",
+              "linux",
+              "macos",
+              "nodejs",
+              "off-grid",
+              "offline",
+              "p2p",
+              "scuttlebutt",
+              "server",
+              "social",
+              "social-network",
+              "ssb",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1292,12 +2388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Threema Web application.",
+            "homepage": null,
             "id": 81329223,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-23T06:16:35Z",
+            "open_issues": 137,
             "owner": "threema-ch",
             "repo": "threema-web",
-            "stars": 1069
+            "stars": 1069,
+            "topics": [
+              "angularjs",
+              "messenger",
+              "threema",
+              "web",
+              "webclient"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -1314,12 +2421,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+            "homepage": "https://bitwarden.com",
             "id": 46755185,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:02:28Z",
+            "open_issues": 220,
             "owner": "bitwarden",
             "repo": "server",
-            "stars": 19950
+            "stars": 19950,
+            "topics": [
+              "api",
+              "aspnet",
+              "aspnetcore",
+              "bitwarden",
+              "csharp",
+              "docker",
+              "dotnet",
+              "dotnet-core",
+              "signalr",
+              "sql",
+              "sql-server"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1330,12 +2454,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+            "homepage": "https://www.authelia.com",
             "id": 75785240,
             "language": "Go",
-            "last_commit": "2026-08-28T19:35:23Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:13:59Z",
+            "open_issues": 123,
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28732
+            "stars": 28733,
+            "topics": [
+              "2fa",
+              "authentication",
+              "docker",
+              "golang",
+              "kubernetes",
+              "ldap",
+              "mfa",
+              "multifactor",
+              "oauth2",
+              "openid-connect",
+              "passkeys",
+              "push-notifications",
+              "security",
+              "sso",
+              "sso-authentication",
+              "totp",
+              "two-factor",
+              "two-factor-authentication",
+              "webauthn",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1346,12 +2496,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Identity and Access Management For Modern Applications and Services",
+            "homepage": "https://www.keycloak.org",
             "id": 11125589,
             "language": "Java",
-            "last_commit": "2026-08-28T18:48:49Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:42:58Z",
+            "open_issues": 3152,
             "owner": "keycloak",
             "repo": "keycloak",
-            "stars": 36474
+            "stars": 36475,
+            "topics": [
+              "keycloak",
+              "oidc",
+              "saml"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1362,12 +2521,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management",
+            "homepage": "https://developer.hashicorp.com/vault",
             "id": 31288958,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:22:37Z",
+            "open_issues": 1431,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36183
+            "stars": 36185,
+            "topics": [
+              "go",
+              "secrets",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1378,12 +2546,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+            "homepage": null,
             "id": 121898717,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T17:38:24Z",
+            "open_issues": 89,
             "owner": "dani-garcia",
             "repo": "vaultwarden",
-            "stars": 66433
+            "stars": 66437,
+            "topics": [
+              "bitwarden",
+              "bitwarden-rs",
+              "docker",
+              "rocket",
+              "rust",
+              "vaultwarden"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1394,12 +2574,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daemon to ban hosts that cause multiple authentication errors",
+            "homepage": "http://www.fail2ban.org",
             "id": 2476162,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T14:06:18Z",
+            "open_issues": 270,
             "owner": "fail2ban",
             "repo": "fail2ban",
-            "stars": 18497
+            "stars": 18498,
+            "topics": [
+              "anti-bot",
+              "attack-prevention",
+              "ban-hosts",
+              "ban-management",
+              "bsd",
+              "fail2ban",
+              "gplv2",
+              "hids",
+              "ids",
+              "intrusion-detection",
+              "intrusion-prevention",
+              "ips",
+              "linux",
+              "loganalyzer",
+              "macos",
+              "monitoring",
+              "python",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1410,12 +2615,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.",
+            "homepage": "http://www.ossec.net",
             "id": 12901559,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T19:38:32Z",
+            "open_issues": 124,
             "owner": "ossec",
             "repo": "ossec-hids",
-            "stars": 5048
+            "stars": 5048,
+            "topics": [
+              "compliance",
+              "file-integrity-management",
+              "fim",
+              "hids",
+              "intrusion-detection",
+              "loganalyzer",
+              "nist800-53",
+              "ossec",
+              "pci-dss",
+              "policy-monitoring",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1426,12 +2648,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+            "homepage": "https://www.clamav.net/",
             "id": 5128084,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T18:11:11Z",
+            "open_issues": 382,
             "owner": "Cisco-Talos",
             "repo": "clamav",
-            "stars": 7180
+            "stars": 7181,
+            "topics": [
+              "antivirus",
+              "clamav",
+              "gplv2",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1442,12 +2674,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA",
+            "homepage": "https://hub.docker.com/r/kylemanna/openvpn/",
             "id": 20468810,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-05-21T05:36:59Z",
+            "open_issues": 306,
             "owner": "kylemanna",
             "repo": "docker-openvpn",
-            "stars": 9089
+            "stars": 9089,
+            "topics": [
+              "docker",
+              "docker-container",
+              "docker-openvpn",
+              "easyrsa-pki",
+              "openvpn",
+              "openvpn-server",
+              "pki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1458,12 +2703,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 251491969,
             "language": "Dockerfile",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T13:08:13Z",
+            "open_issues": 2,
             "owner": "linuxserver",
             "repo": "docker-wireguard",
-            "stars": 3633
+            "stars": 3633,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1474,12 +2726,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+            "homepage": "https://crowdsec.net",
             "id": 264154402,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:54:12Z",
+            "open_issues": 287,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14667
+            "stars": 14667,
+            "topics": [
+              "attacks-prevention",
+              "detection",
+              "ids",
+              "ips",
+              "linux",
+              "protection",
+              "security",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1490,12 +2756,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+            "homepage": "https://www.modsecurity.org",
             "id": 1320594,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T14:23:43Z",
+            "open_issues": 344,
             "owner": "owasp-modsecurity",
             "repo": "ModSecurity",
-            "stars": 9752
+            "stars": 9752,
+            "topics": [
+              "apache",
+              "apache2",
+              "modsecurity",
+              "nginx",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1506,12 +2783,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+            "homepage": "https://suricata.io",
             "id": 5410234,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T07:52:17Z",
+            "open_issues": 104,
             "owner": "OISF",
             "repo": "suricata",
-            "stars": 6578
+            "stars": 6578,
+            "topics": [
+              "cybersecurity",
+              "ids",
+              "intrusion-detection-system",
+              "intrusion-prevention-system",
+              "ips",
+              "network-monitor",
+              "network-monitoring",
+              "nsm",
+              "security",
+              "suricata",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1522,12 +2816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snort++",
+            "homepage": null,
             "id": 27875223,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-23T20:33:58Z",
+            "open_issues": 78,
             "owner": "snort3",
             "repo": "snort3",
-            "stars": 3410
+            "stars": 3410,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1538,12 +2837,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "homepage": "https://wazuh.com/",
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-29T00:02:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:31:35Z",
+            "open_issues": 3007,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16708
+            "stars": 16710,
+            "topics": [
+              "cloud-security",
+              "compliance",
+              "configuration-assessement",
+              "container-security",
+              "cybersecurity",
+              "file-integrity-monitoring",
+              "incident-response",
+              "infosec",
+              "log-analysis",
+              "malware-detection",
+              "pci-dss",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-hardening",
+              "security-tools",
+              "siem",
+              "vulnerability-detection",
+              "wazuh",
+              "xdr"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1554,12 +2879,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NIST Certified SCAP 1.2 toolkit",
+            "homepage": "https://www.open-scap.org/tools/openscap-base",
             "id": 19279199,
             "language": "XSLT",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-13T18:15:39Z",
+            "open_issues": 63,
             "owner": "OpenSCAP",
             "repo": "openscap",
-            "stars": 1806
+            "stars": 1806,
+            "topics": [
+              "compliance",
+              "cpe",
+              "data-stream",
+              "openscap",
+              "oval",
+              "scanning",
+              "scap",
+              "xccdf"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1570,12 +2909,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid spam filtering system.",
+            "homepage": null,
             "id": 9549081,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:19:37Z",
+            "open_issues": 300,
             "owner": "rspamd",
             "repo": "rspamd",
-            "stars": 2515
+            "stars": 2515,
+            "topics": [
+              "c",
+              "email",
+              "lua",
+              "rspamd",
+              "spam-filter"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1586,12 +2936,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read-only mirror of Apache SpamAssassin.",
+            "homepage": "http://spamassassin.apache.org",
             "id": 205402,
             "language": "Perl",
-            "last_commit": "2026-08-28T18:31:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:03:04Z",
+            "open_issues": 4,
             "owner": "apache",
             "repo": "spamassassin",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "c",
+              "mail",
+              "perl",
+              "spamassassin"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1602,12 +2962,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open log management",
+            "homepage": "https://www.graylog.org",
             "id": 671825,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:50:42Z",
+            "open_issues": 2057,
             "owner": "Graylog2",
             "repo": "graylog2-server",
-            "stars": 8119
+            "stars": 8120,
+            "topics": [
+              "amqp",
+              "gelf",
+              "graylog",
+              "hacktoberfest",
+              "kafka",
+              "log-analysis",
+              "log-collector",
+              "log-management",
+              "log-viewer",
+              "logging",
+              "logging-server",
+              "secure-logging",
+              "security",
+              "siem",
+              "syslog"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -1624,12 +3005,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+            "homepage": "https://grafana.com",
             "id": 15111821,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:22:23Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:59:04Z",
+            "open_issues": 3317,
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76465
+            "stars": 76465,
+            "topics": [
+              "alerting",
+              "analytics",
+              "business-intelligence",
+              "dashboard",
+              "data-visualization",
+              "elasticsearch",
+              "go",
+              "grafana",
+              "hacktoberfest",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "mysql",
+              "postgres",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1640,12 +3042,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65878
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1656,12 +3071,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+            "homepage": "https://www.netdata.cloud",
             "id": 10744183,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:21:19Z",
+            "open_issues": 387,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80340
+            "stars": 80342,
+            "topics": [
+              "ai",
+              "alerting",
+              "cncf",
+              "data-visualization",
+              "database",
+              "devops",
+              "docker",
+              "grafana",
+              "influxdb",
+              "kubernetes",
+              "linux",
+              "machine-learning",
+              "mcp",
+              "mongodb",
+              "monitoring",
+              "mysql",
+              "netdata",
+              "observability",
+              "postgresql",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1672,12 +3113,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fancy self-hosted monitoring tool",
+            "homepage": "https://uptime.kuma.pet",
             "id": 382496361,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:06:13Z",
+            "open_issues": 792,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90721
+            "stars": 90721,
+            "topics": [
+              "docker",
+              "monitor",
+              "monitoring",
+              "responsive",
+              "self-hosted",
+              "selfhosted",
+              "single-page-app",
+              "socket-io",
+              "uptime",
+              "uptime-monitoring",
+              "webapp",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1688,12 +3147,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+            "homepage": "https://www.zabbix.com/",
             "id": 17253775,
             "language": "Go Template",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T19:00:40Z",
+            "open_issues": 108,
             "owner": "zabbix",
             "repo": "zabbix",
-            "stars": 6317
+            "stars": 6317,
+            "topics": [
+              "alerting",
+              "application-monitoring",
+              "metrics",
+              "monitoring",
+              "network-monitoring",
+              "zabbix"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1704,12 +3175,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable datastore for metrics, events, and real-time analytics",
+            "homepage": "https://influxdata.com",
             "id": 13124802,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:13:13Z",
+            "open_issues": 2157,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31726
+            "stars": 31726,
+            "topics": [
+              "database",
+              "go",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "react",
+              "rust",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1720,12 +3205,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+            "homepage": "https://influxdata.com/telegraf",
             "id": 33258973,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:55:34Z",
+            "open_issues": 427,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17776
+            "stars": 17776,
+            "topics": [
+              "golang",
+              "hacktoberfest",
+              "influxdb",
+              "json",
+              "kafka",
+              "logs",
+              "metrics",
+              "modbus",
+              "monitoring",
+              "mqtt",
+              "opcua",
+              "t",
+              "telegraf",
+              "telemetry-collection",
+              "time-series",
+              "windows-eventlog",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1736,12 +3244,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cacti ™",
+            "homepage": "http://www.cacti.net",
             "id": 29455529,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T21:39:36Z",
+            "open_issues": 346,
             "owner": "Cacti",
             "repo": "cacti",
-            "stars": 1861
+            "stars": 1861,
+            "topics": [
+              "cacti",
+              "cacti-community",
+              "cacti-framework",
+              "data-gathering",
+              "graph",
+              "graph-templating",
+              "network-discovery",
+              "php",
+              "rrd-files",
+              "rrdtool"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1752,12 +3276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nagios Core",
+            "homepage": null,
             "id": 16119670,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-07T15:49:17Z",
+            "open_issues": 206,
             "owner": "NagiosEnterprises",
             "repo": "nagioscore",
-            "stars": 2040
+            "stars": 2040,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1768,12 +3297,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkmk - Best-in-class infrastructure & application monitoring",
+            "homepage": "https://checkmk.com/",
             "id": 171669368,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T20:00:13Z",
+            "open_issues": 58,
             "owner": "Checkmk",
             "repo": "checkmk",
-            "stars": 2349
+            "stars": 2349,
+            "topics": [
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1784,12 +3320,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-based GPL-licensed network monitoring system",
+            "homepage": "https://www.librenms.org",
             "id": 13914116,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:12:17Z",
+            "open_issues": 216,
             "owner": "librenms",
             "repo": "librenms",
-            "stars": 4855
+            "stars": 4855,
+            "topics": [
+              "hacktoberfest",
+              "laravel",
+              "librenms",
+              "monitoring",
+              "network",
+              "php",
+              "rrd",
+              "snmp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1800,12 +3350,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The core of our monitoring platform with a powerful configuration language and REST API.",
+            "homepage": "https://icinga.com/docs/icinga2/latest",
             "id": 12440855,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T15:13:02Z",
+            "open_issues": 494,
             "owner": "Icinga",
             "repo": "icinga2",
-            "stars": 2233
+            "stars": 2233,
+            "topics": [
+              "cluster",
+              "distributed-monitoring",
+              "elastic",
+              "graphite",
+              "graylog",
+              "icinga",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "notification",
+              "opentsdb",
+              "performance",
+              "rest-api",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1816,12 +3386,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.",
+            "homepage": "http://nicolargo.github.io/glances/",
             "id": 2909429,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T17:06:35Z",
+            "open_issues": 110,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33458
+            "stars": 33460,
+            "topics": [
+              "monitoring",
+              "multi-platform",
+              "python",
+              "restful",
+              "restful-api",
+              "system",
+              "terminal",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1832,12 +3416,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+            "homepage": "https://cortexmetrics.io/",
             "id": 67793333,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:28:51Z",
+            "open_issues": 354,
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5856
+            "stars": 5857,
+            "topics": [
+              "cncf",
+              "hacktoberfest",
+              "kubernetes",
+              "monitoring",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1848,12 +3443,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "homepage": "https://victoriametrics.com/",
             "id": 150954997,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:38:36Z",
+            "open_issues": 786,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17609
+            "stars": 17609,
+            "topics": [
+              "database",
+              "grafana",
+              "graphite",
+              "influxdb",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "opentelemetry",
+              "opentsdb",
+              "prometheus",
+              "promql",
+              "thanos",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1864,12 +3478,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+            "homepage": "https://thanos.io",
             "id": 109162639,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:51:48Z",
+            "open_issues": 884,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14190
+            "stars": 14190,
+            "topics": [
+              "cncf",
+              "go",
+              "google-cloud-storage",
+              "hacktoberfest",
+              "high-availability",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "prometheus-ha-pairs",
+              "prometheus-setup",
+              "s3",
+              "storage",
+              "thanos"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1880,12 +3514,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source framework for processing, monitoring, and alerting on time series data",
+            "homepage": null,
             "id": 41681600,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:38:52Z",
+            "open_issues": 833,
             "owner": "influxdata",
             "repo": "kapacitor",
-            "stars": 2375
+            "stars": 2375,
+            "topics": [
+              "kapacitor",
+              "monitoring",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1896,12 +3539,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Time Series Alerting Framework",
+            "homepage": "http://bosun.org",
             "id": 14410778,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-13T10:41:49Z",
+            "open_issues": 0,
             "owner": "bosun-monitor",
             "repo": "bosun",
-            "stars": 3390
+            "stars": 3390,
+            "topics": [
+              "alerting",
+              "bosun",
+              "go",
+              "monitoring",
+              "scollector",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1912,12 +3567,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 54560347,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-12T09:56:27Z",
+            "open_issues": 208,
             "owner": "lmenezes",
             "repo": "cerebro",
-            "stars": 5608
+            "stars": 5608,
+            "topics": [
+              "admin",
+              "elasticsearch"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1928,12 +3591,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. ",
+            "homepage": "https://dozzle.dev/",
             "id": 155297903,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:39:34Z",
+            "open_issues": 2,
             "owner": "amir20",
             "repo": "dozzle",
-            "stars": 14201
+            "stars": 14201,
+            "topics": [
+              "docker",
+              "docker-container",
+              "golang",
+              "k8s",
+              "log",
+              "logging",
+              "logging-server",
+              "real-time",
+              "sever-events",
+              "swarm",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -1950,12 +3630,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views",
+            "homepage": "http://seafile.com/",
             "id": 4999959,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:49:27Z",
+            "open_issues": 92,
             "owner": "haiwen",
             "repo": "seafile",
-            "stars": 15178
+            "stars": 15179,
+            "topics": [
+              "cloud-storage",
+              "document-management",
+              "file-sharing",
+              "file-sync",
+              "knowledge-management",
+              "markdown",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1966,12 +3659,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Continuous File Synchronization",
+            "homepage": "https://syncthing.net/",
             "id": 14712850,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T01:28:51Z",
+            "open_issues": 379,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88089
+            "stars": 88092,
+            "topics": [
+              "go",
+              "p2p",
+              "peer-to-peer",
+              "synchronization"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1982,12 +3685,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cloud: ownCloud web server core (Files, DAV, etc.)",
+            "homepage": "https://owncloud.com",
             "id": 5550552,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T03:38:45Z",
+            "open_issues": 132,
             "owner": "owncloud",
             "repo": "core",
-            "stars": 8831
+            "stars": 8831,
+            "topics": [
+              "enterprise",
+              "federated",
+              "file-sharing",
+              "file-sync",
+              "javascript",
+              "owncloud",
+              "owncloud-classic",
+              "php",
+              "platform",
+              "self-hosted",
+              "self-hosting",
+              "server",
+              "sharing",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -1998,12 +3721,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.",
+            "homepage": null,
             "id": 42332863,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T10:06:58Z",
+            "open_issues": 1,
             "owner": "filebrowser",
             "repo": "filebrowser",
-            "stars": 35962
+            "stars": 35962,
+            "topics": [
+              "file-browser",
+              "file-manager",
+              "file-sharing",
+              "go",
+              "material-design",
+              "self-hosted",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2014,12 +3750,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Future-proof content collaboration platform",
+            "homepage": "https://pydio.com",
             "id": 126603957,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:33:22Z",
+            "open_issues": 61,
             "owner": "pydio",
             "repo": "cells",
-            "stars": 2243
+            "stars": 2243,
+            "topics": [
+              "filesharing",
+              "golang-application",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2030,12 +3775,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+            "homepage": null,
             "id": 29261473,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-24T17:54:39Z",
+            "open_issues": 80,
             "owner": "minio",
             "repo": "minio",
-            "stars": 61375
+            "stars": 61375,
+            "topics": [
+              "amazon-s3",
+              "cloud",
+              "cloudnative",
+              "cloudstorage",
+              "go",
+              "k8s",
+              "kubernetes",
+              "multi-cloud",
+              "multi-cloud-kubernetes",
+              "objectstorage",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2046,12 +3809,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community maintained docker micro-image for deploying Nextcloud on container platforms",
+            "homepage": "https://hub.docker.com/_/nextcloud/",
             "id": 63169079,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T19:21:37Z",
+            "open_issues": 144,
             "owner": "nextcloud",
             "repo": "docker",
-            "stars": 7352
+            "stars": 7352,
+            "topics": [
+              "docker",
+              "docker-image",
+              "nextcloud",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2062,12 +3835,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, Versatile, Yours",
+            "homepage": "https://docs.cozy.io/en/cozy-stack/",
             "id": 63433838,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T15:48:01Z",
+            "open_issues": 63,
             "owner": "linagora",
             "repo": "cozy-stack",
-            "stars": 1271
+            "stars": 1271,
+            "topics": [
+              "couchdb",
+              "cozy",
+              "cozy-v3",
+              "simple",
+              "versatile",
+              "yours"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2078,12 +3863,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic JSON document store with sharing and synchronisation capabilities.",
+            "homepage": "http://docs.kinto-storage.org/",
             "id": 31315021,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T22:12:04Z",
+            "open_issues": 95,
             "owner": "Kinto",
             "repo": "kinto",
-            "stars": 4418
+            "stars": 4418,
+            "topics": [
+              "api",
+              "decentralisation",
+              "http",
+              "storage",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2094,12 +3890,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!",
+            "homepage": "https://www.projectsend.org/",
             "id": 17659600,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T21:06:27Z",
+            "open_issues": 17,
             "owner": "projectsend",
             "repo": "projectsend",
-            "stars": 1986
+            "stars": 1986,
+            "topics": [
+              "business-tools",
+              "client-portal",
+              "clients-oriented",
+              "document-sharing",
+              "file-management",
+              "file-sharing",
+              "file-upload",
+              "free-software",
+              "mysql",
+              "open-source",
+              "php",
+              "projectsend",
+              "s3-storage",
+              "self-hosted",
+              "selfhosted",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2110,12 +3928,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+            "homepage": "https://caddyserver.com",
             "id": 29207621,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:37:01Z",
+            "open_issues": 267,
             "owner": "caddyserver",
             "repo": "caddy",
-            "stars": 75296
+            "stars": 75303,
+            "topics": [
+              "acme",
+              "automatic-https",
+              "caddy",
+              "caddyfile",
+              "go",
+              "golang",
+              "http",
+              "http-server",
+              "http3",
+              "https",
+              "privacy",
+              "reverse-proxy",
+              "security",
+              "tls",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2126,12 +3965,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://gitlab.com/samba-team/samba is the Official GitLab mirror of https://git.samba.org/samba.git   --   Merge requests should be made on GitLab (not on GitHub)",
+            "homepage": "https://www.samba.org",
             "id": 38905297,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:16:10Z",
+            "open_issues": 1,
             "owner": "samba-team",
             "repo": "samba",
-            "stars": 1126
+            "stars": 1126,
+            "topics": [
+              "samba"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2142,12 +3988,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.",
+            "homepage": "https://www.zenko.io",
             "id": 93576430,
             "language": "Gherkin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:59:04Z",
+            "open_issues": 22,
             "owner": "scality",
             "repo": "Zenko",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "artesca",
+              "aws-s3",
+              "azure-storage",
+              "cloud-native",
+              "docker-swarm",
+              "google-cloud",
+              "grafana",
+              "helm",
+              "hybrid-cloud",
+              "kafka",
+              "kubernetes",
+              "mongodb",
+              "multi-cloud",
+              "object-storage",
+              "prometheus",
+              "redis",
+              "scality",
+              "zenko",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2158,12 +4029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+            "homepage": "https://seaweedfs.com",
             "id": 1128557039,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T07:44:51Z",
+            "open_issues": 1,
             "owner": "chrislusf",
             "repo": "seaweedfs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2174,12 +4050,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ceph is a distributed object, block, and file storage platform ",
+            "homepage": "https://ceph.io",
             "id": 2310495,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:00:29Z",
+            "open_issues": 1299,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16975
+            "stars": 16975,
+            "topics": [
+              "block-storage",
+              "cloud-storage",
+              "distributed-file-system",
+              "distributed-storage",
+              "erasure-coding",
+              "fuse",
+              "hdfs",
+              "high-performance",
+              "highly-available",
+              "iscsi",
+              "kubernetes",
+              "nfs",
+              "nvme-over-fabrics",
+              "object-store",
+              "posix",
+              "replication",
+              "s3",
+              "smb",
+              "software-defined-storage",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2190,12 +4092,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gluster Filesystem : Build your distributed storage in minutes",
+            "homepage": "https://www.gluster.org",
             "id": 1377037,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T02:37:51Z",
+            "open_issues": 282,
             "owner": "gluster",
             "repo": "glusterfs",
-            "stars": 5220
+            "stars": 5220,
+            "topics": [
+              "c",
+              "distributed-systems",
+              "erasure-coding",
+              "filesystem",
+              "fuse-filesystem",
+              "gluster",
+              "glusterfs",
+              "high-availability",
+              "k8s-sig-storage",
+              "libgfapi",
+              "linux",
+              "replication",
+              "server",
+              "snapshot",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2206,12 +4129,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
+            "homepage": "https://www.openmediavault.org",
             "id": 57961433,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:11:31Z",
+            "open_issues": 97,
             "owner": "openmediavault",
             "repo": "openmediavault",
-            "stars": 6918
+            "stars": 6918,
+            "topics": [
+              "debian",
+              "nas"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2222,12 +4153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 824765989,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-05T23:21:36Z",
+            "open_issues": 0,
             "owner": "XigmaNAS",
             "repo": "xigmanas",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2238,12 +4174,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrueNAS CORE/Enterprise/SCALE Middleware Git Repository",
+            "homepage": "http://www.truenas.com",
             "id": 8627760,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T20:40:07Z",
+            "open_issues": 16,
             "owner": "truenas",
             "repo": "middleware",
-            "stars": 2588
+            "stars": 2588,
+            "topics": [
+              "freenas",
+              "iscsi",
+              "nfs",
+              "s3-storage",
+              "scale",
+              "smb",
+              "storage",
+              "truenas",
+              "zfs"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -2260,12 +4211,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+            "homepage": "https://www.home-assistant.io",
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-29T00:19:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:24Z",
+            "open_issues": 3542,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90168
+            "stars": 90170,
+            "topics": [
+              "asyncio",
+              "hacktoberfest",
+              "home-automation",
+              "internet-of-things",
+              "iot",
+              "mqtt",
+              "python",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2276,12 +4241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core framework of openHAB",
+            "homepage": "https://www.openhab.org/",
             "id": 48337670,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-27T15:41:13Z",
+            "open_issues": 382,
             "owner": "openhab",
             "repo": "openhab-core",
-            "stars": 1137
+            "stars": 1137,
+            "topics": [
+              "home-automation",
+              "internet-of-things",
+              "iot",
+              "java",
+              "openhab"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2292,12 +4268,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.",
+            "homepage": "https://www.domoticz.com",
             "id": 40759227,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:31:59Z",
+            "open_issues": 19,
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3794
+            "stars": 3795,
+            "topics": [
+              "cpp",
+              "domoticz",
+              "dzvents",
+              "energy-monitoring",
+              "home-automation",
+              "html5",
+              "iot",
+              "linux",
+              "lua",
+              "mqtt",
+              "open-source",
+              "python",
+              "raspberry-pi",
+              "scripting",
+              "sensors",
+              "smart-home",
+              "web-interface",
+              "windows",
+              "z-wave",
+              "zigbee"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2308,12 +4310,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code programming for event-driven applications",
+            "homepage": "http://nodered.org",
             "id": 12618379,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:26:32Z",
+            "open_issues": 324,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23596
+            "stars": 23596,
+            "topics": [
+              "flow-based-programming",
+              "javascript",
+              "low-code",
+              "node-red",
+              "openjs-foundation",
+              "visual-programming"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2324,12 +4338,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+            "homepage": "https://esphome.io/",
             "id": 128479644,
             "language": "C++",
-            "last_commit": "2026-08-29T00:23:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:25Z",
+            "open_issues": 749,
             "owner": "esphome",
             "repo": "esphome",
-            "stars": 11613
+            "stars": 11613,
+            "topics": [
+              "esp32",
+              "esp8266",
+              "hacktoberfest",
+              "home-assistant",
+              "home-automation",
+              "iot",
+              "mqtt",
+              "platformio",
+              "python",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2340,12 +4370,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HomeKit support for the impatient.",
+            "homepage": "https://homebridge.io",
             "id": 27388642,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:46:34Z",
+            "open_issues": 19,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25466
+            "stars": 25466,
+            "topics": [
+              "hap",
+              "homebridge",
+              "homekit",
+              "homekit-accessory-protocol",
+              "homekit-api",
+              "homekit-bridge",
+              "siri"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2356,12 +4399,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate your life!",
+            "homepage": "http://iobroker.net",
             "id": 22886718,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-15T18:47:43Z",
+            "open_issues": 40,
             "owner": "ioBroker",
             "repo": "ioBroker",
-            "stars": 1374
+            "stars": 1374,
+            "topics": [
+              "home-automation",
+              "iobroker",
+              "nodejs",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2372,12 +4425,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-first, open-source home assistant",
+            "homepage": "https://gladysassistant.com",
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:06:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:29:25Z",
+            "open_issues": 51,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3164
+            "stars": 3164,
+            "topics": [
+              "assistant",
+              "automation",
+              "gladys",
+              "home",
+              "home-automation",
+              "iot",
+              "nodejs",
+              "raspberry-pi",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2388,12 +4456,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Software for home automation",
+            "homepage": "https://www.jeedom.com",
             "id": 26161892,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-29T00:27:11Z",
+            "open_issues": 73,
             "owner": "jeedom",
             "repo": "core",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "home-automation",
+              "homeautomation",
+              "internet-of-things",
+              "iot",
+              "smarthome",
+              "zigbee",
+              "zwave"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -2410,12 +4491,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+            "homepage": "https://matomo.org/",
             "id": 1548202,
             "language": "PHP",
-            "last_commit": "2026-08-28T17:39:50Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:46:33Z",
+            "open_issues": 2571,
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 21825
+            "stars": 21825,
+            "topics": [
+              "analytics",
+              "growth",
+              "hacktoberfest",
+              "intranet",
+              "log",
+              "marketing",
+              "matomo",
+              "mobile",
+              "mysql",
+              "php",
+              "piwik",
+              "privacy",
+              "security",
+              "web-analytics",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2426,12 +4528,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+            "homepage": "https://plausible.io",
             "id": 160427405,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T09:21:12Z",
+            "open_issues": 62,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28787
+            "stars": 28787,
+            "topics": [
+              "analytics",
+              "analytics-dashboard",
+              "clickhouse",
+              "elixir",
+              "google-analytics",
+              "marketing",
+              "open-source-analytics",
+              "phoenix",
+              "plausible-analytics",
+              "postgresql",
+              "privacy",
+              "privacy-friendly",
+              "self-hosted",
+              "simple-analytics",
+              "statistics",
+              "tailwindcss",
+              "web-analytics",
+              "website-analytics",
+              "website-stats",
+              "website-tracking"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2442,12 +4570,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+            "homepage": "https://umami.is",
             "id": 280363952,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:17:29Z",
+            "open_issues": 114,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38424
+            "stars": 38425,
+            "topics": [
+              "analytics",
+              "audience-segmentation",
+              "charts",
+              "cohort-analysis",
+              "google-analytics",
+              "product-analytics",
+              "statistics",
+              "user-journey",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2458,12 +4601,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+            "homepage": "https://ackee.electerious.com",
             "id": 18831920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T10:30:14Z",
+            "open_issues": 47,
             "owner": "electerious",
             "repo": "Ackee",
-            "stars": 4691
+            "stars": 4691,
+            "topics": [
+              "analytics",
+              "google-analytics",
+              "privacy",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2474,12 +4627,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+            "homepage": "https://goaccess.io",
             "id": 11397939,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-20T00:08:16Z",
+            "open_issues": 457,
             "owner": "allinurl",
             "repo": "goaccess",
-            "stars": 20877
+            "stars": 20877,
+            "topics": [
+              "analytics",
+              "apache",
+              "c",
+              "caddy",
+              "cli",
+              "command-line",
+              "dashboard",
+              "data-analysis",
+              "gdpr",
+              "goaccess",
+              "google-analytics",
+              "monitoring",
+              "ncurses",
+              "nginx",
+              "privacy",
+              "real-time",
+              "terminal",
+              "tui",
+              "web-analytics",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2490,12 +4669,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-29T00:36:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:07:28Z",
+            "open_issues": 4456,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48981
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2506,12 +4709,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+            "homepage": "http://redash.io/",
             "id": 13926404,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-18T16:14:11Z",
+            "open_issues": 802,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28766
+            "stars": 28766,
+            "topics": [
+              "analytics",
+              "athena",
+              "bi",
+              "bigquery",
+              "business-intelligence",
+              "dashboard",
+              "databricks",
+              "hacktoberfest",
+              "javascript",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "python",
+              "redash",
+              "redshift",
+              "snowflake",
+              "spark",
+              "spark-sql",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2522,12 +4750,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments.",
+            "homepage": "https://countly.com",
             "id": 4473517,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:53:58Z",
+            "open_issues": 16,
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5894
+            "stars": 5894,
+            "topics": [
+              "ai",
+              "analytics",
+              "coppa",
+              "crash-analytics",
+              "customer-engagement",
+              "dashboard",
+              "data-ownership",
+              "data-privacy",
+              "digital-analytics",
+              "feature-flags",
+              "gdpr",
+              "hipaa",
+              "insights",
+              "mobile-analytics",
+              "push-notifications",
+              "remote-configuration",
+              "tracking",
+              "user-feedback",
+              "user-journeys",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2538,12 +4792,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+            "homepage": "https://posthog.com",
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-29T00:32:44Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:10:14Z",
+            "open_issues": 5142,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 39426
+            "stars": 39436,
+            "topics": [
+              "ab-testing",
+              "ai-analytics",
+              "analytics",
+              "cdp",
+              "data-warehouse",
+              "experiments",
+              "feature-flags",
+              "javascript",
+              "product-analytics",
+              "python",
+              "react",
+              "session-replay",
+              "surveys",
+              "typescript",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2554,12 +4829,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.",
+            "homepage": "https://usefathom.com/",
             "id": 74236755,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-18T09:11:04Z",
+            "open_issues": 5,
             "owner": "usefathom",
             "repo": "fathom",
-            "stars": 8013
+            "stars": 8013,
+            "topics": [
+              "analytics",
+              "fathom",
+              "fathom-analytics",
+              "fathom-dashboard",
+              "google-analytics",
+              "metrics",
+              "privacy",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2570,12 +4859,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self Hosted Alternative To Google Analytics",
+            "homepage": "https://www.vinceanalytics.com/",
             "id": 648607331,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2025-09-01T07:17:47Z",
+            "open_issues": 21,
             "owner": "vinceanalytics",
             "repo": "vince",
-            "stars": 2014
+            "stars": 2014,
+            "topics": [
+              "cloud-native",
+              "self-hosted",
+              "vince",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -2592,12 +4891,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Pi-hole Docker image from pi-hole.net",
+            "homepage": "https://pi-hole.net",
             "id": 50894333,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T04:46:47Z",
+            "open_issues": 12,
             "owner": "pi-hole",
             "repo": "docker-pi-hole",
-            "stars": 11509
+            "stars": 11509,
+            "topics": [
+              "ad-blocker",
+              "dns",
+              "docker-container",
+              "pi-hole",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2608,12 +4918,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, self-hostable news aggregator…",
+            "homepage": "https://freshrss.org",
             "id": 6322699,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T06:51:57Z",
+            "open_issues": 665,
             "owner": "FreshRSS",
             "repo": "FreshRSS",
-            "stars": 15860
+            "stars": 15863,
+            "topics": [
+              "feed",
+              "freshrss",
+              "news-aggregator",
+              "php",
+              "rss",
+              "rss-aggregator",
+              "rss-reader",
+              "self-hosted",
+              "websub"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2624,12 +4949,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+            "homepage": "https://wallabag.org",
             "id": 9193949,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:35:25Z",
+            "open_issues": 761,
             "owner": "wallabag",
             "repo": "wallabag",
-            "stars": 12940
+            "stars": 12940,
+            "topics": [
+              "hacktoberfest",
+              "php",
+              "read-it-later",
+              "self-hosted",
+              "symfony",
+              "symfony-application",
+              "wallabag"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2640,12 +4978,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+            "homepage": "https://docs.tandoor.dev",
             "id": 221546437,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T05:47:25Z",
+            "open_issues": 422,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8566
+            "stars": 8566,
+            "topics": [
+              "cookbook",
+              "cooking",
+              "django",
+              "docker",
+              "food",
+              "hacktoberfest",
+              "markdown",
+              "meal-planner",
+              "recipe",
+              "recipes",
+              "selfhosted",
+              "shopping"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2656,12 +5012,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple bookmark manager built with Go",
+            "homepage": null,
             "id": 118617559,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
+            "open_issues": 115,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11619
+            "stars": 11619,
+            "topics": [
+              "bookmark-manager",
+              "command-line",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "web-interface"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2672,12 +5040,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",
+            "homepage": "https://librespeed.org",
             "id": 53131903,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-15T08:36:57Z",
+            "open_issues": 14,
             "owner": "librespeed",
             "repo": "speedtest",
-            "stars": 15116
+            "stars": 15117,
+            "topics": [
+              "hacktoberfest",
+              "html5-speedtest",
+              "internet-speed",
+              "internet-speed-checker",
+              "librespeed",
+              "php",
+              "speedtest",
+              "web-worker",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2688,12 +5071,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Document Management System for Digital Archives (Scanned Documents)",
+            "homepage": "https://papermerge.com",
             "id": 232151602,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-23T11:52:05Z",
+            "open_issues": 132,
             "owner": "ciur",
             "repo": "papermerge",
-            "stars": 2934
+            "stars": 2934,
+            "topics": [
+              "archives",
+              "django",
+              "dms",
+              "document-management",
+              "ocr",
+              "paperless",
+              "pdf",
+              "scan",
+              "scanned-documents"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2704,12 +5102,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+            "homepage": null,
             "id": 40089578,
             "language": "Fluent",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:16:57Z",
+            "open_issues": 397,
             "owner": "janeczku",
             "repo": "calibre-web",
-            "stars": 18069
+            "stars": 18070,
+            "topics": [
+              "calibre",
+              "ebook",
+              "ebook-manager",
+              "epub",
+              "mobi"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2720,12 +5129,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firefly III: a personal finances manager",
+            "homepage": "https://firefly-iii.org/",
             "id": 21298446,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T13:53:35Z",
+            "open_issues": 170,
             "owner": "firefly-iii",
             "repo": "firefly-iii",
-            "stars": 24446
+            "stars": 24447,
+            "topics": [
+              "accounting",
+              "budget",
+              "budgeting",
+              "budgets",
+              "cash-flow",
+              "cashflow",
+              "credit-card",
+              "docker",
+              "expenses",
+              "finance",
+              "finances",
+              "financial",
+              "linux",
+              "money",
+              "paycheck",
+              "personal-finance",
+              "php",
+              "php7"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2736,12 +5169,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple static homepage for your server.",
+            "homepage": "https://homer-demo.netlify.app/",
             "id": 137308006,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:36:40Z",
+            "open_issues": 167,
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11581
+            "stars": 11582,
+            "topics": [
+              "dashboard",
+              "hacktoberfest",
+              "homepage",
+              "self-hosted",
+              "toolbox",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2752,12 +5197,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A free, open source, self-hosted customer feedback tool 🦊",
+            "homepage": null,
             "id": 203002681,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-01-09T17:46:45Z",
+            "open_issues": 80,
             "owner": "astuto",
             "repo": "astuto",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "boards",
+              "customer-feedback",
+              "docker",
+              "feedback",
+              "react",
+              "roadmap",
+              "ruby-on-rails",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         },
@@ -2768,12 +5227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run WordPress, MariaDB and phpMyAdmin in Docker.",
+            "homepage": "https://wpd.gscloud.cz",
             "id": 272184382,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-06-01T07:24:16Z",
+            "open_issues": 0,
             "owner": "GSCloud",
             "repo": "docker_wordpress",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-29T00:38:51.312Z"
         }
@@ -2782,15 +5250,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:51.312Z",
+    "last_updated": "2026-08-29T04:16:58.281Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.",
+      "homepage": "https://awesome-selfhost-docker.vercel.app",
       "id": 828972950,
       "language": "HTML",
+      "license": null,
       "last_commit": "2025-06-01T18:08:10Z",
+      "open_issues": 39,
       "owner": "hotheadhacker",
       "repo": "awesome-selfhost-docker",
-      "stars": 4059
+      "stars": 4059,
+      "topics": []
     },
     "original_repository_sha": "b41018f9a4f62db6c490ede8a96148b1259dcb8b",
     "enhanced_repository": "enhansome/enhansome-selfhost-docker",
