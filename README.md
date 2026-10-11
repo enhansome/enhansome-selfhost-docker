@@ -31,197 +31,197 @@
 
 | Project                                                                                                         | Description                                                                                            |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Nextcloud](https://github.com/nextcloud/docker) ⭐ 7,384 \| 🐛 141 \| 🌐 Shell \| 📅 2026-10-01                 | Productivity platform for file hosting and collaboration                                               |
-| [Joplin](https://github.com/laurent22/joplin) ⭐ 56,668 \| 🐛 653 \| 🌐 TypeScript \| 📅 2026-10-10              | Note-taking and to-do application                                                                      |
+| [Nextcloud](https://github.com/nextcloud/docker) ⭐ 7,385 \| 🐛 141 \| 🌐 Shell \| 📅 2026-10-01                 | Productivity platform for file hosting and collaboration                                               |
+| [Joplin](https://github.com/laurent22/joplin) ⭐ 56,687 \| 🐛 639 \| 🌐 TypeScript \| 📅 2026-10-11              | Note-taking and to-do application                                                                      |
 | [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) ⚠️ Archived                                        | Document management system                                                                             |
-| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,078 \| 🐛 3 \| 🌐 PHP \| 📅 2026-10-10              | Platform for organizing and storing information                                                        |
-| [Trilium](https://github.com/zadam/trilium) ⭐ 38,269 \| 🐛 643 \| 🌐 TypeScript \| 📅 2026-10-10                | Hierarchical note-taking application                                                                   |
-| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,475 \| 🐛 277 \| 🌐 TypeScript \| 📅 2026-10-09            | Collaborative markdown editor                                                                          |
-| [Wekan](https://github.com/wekan/wekan) ⭐ 21,111 \| 🐛 65 \| 🌐 JavaScript \| 📅 2026-10-10                     | Open-source Trello-like kanban board                                                                   |
+| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,078 \| 🐛 3 \| 🌐 PHP \| 📅 2026-10-11              | Platform for organizing and storing information                                                        |
+| [Trilium](https://github.com/zadam/trilium) ⭐ 38,280 \| 🐛 632 \| 🌐 TypeScript \| 📅 2026-10-11                | Hierarchical note-taking application                                                                   |
+| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) ⭐ 7,477 \| 🐛 277 \| 🌐 TypeScript \| 📅 2026-10-11            | Collaborative markdown editor                                                                          |
+| [Wekan](https://github.com/wekan/wekan) ⭐ 21,110 \| 🐛 65 \| 🌐 JavaScript \| 📅 2026-10-11                     | Open-source Trello-like kanban board                                                                   |
 | [Zim](https://github.com/jaap-karssenberg/zim-desktop-wiki) ⭐ 2,207 \| 🐛 443 \| 🌐 Python \| 📅 2026-10-07     | Desktop wiki & note-taking                                                                             |
 | [Standard Notes](https://github.com/standardnotes/server) ⭐ 474 \| 🐛 71 \| 🌐 TypeScript \| 📅 2026-10-05      | Encrypted note-taking app                                                                              |
-| [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,902 \| 🐛 170 \| 🌐 PHP \| 📅 2026-10-03                   | Project management software                                                                            |
-| [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,582 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-10-09          | Real-time collaborative document editing                                                               |
-| [OnlyOffice](https://github.com/ONLYOFFICE/Docker-DocumentServer) ⭐ 2,474 \| 🐛 27 \| 🌐 Shell \| 📅 2026-10-10 | Office suite that enables you to manage documents, projects, team, and customer relations in one place |
-| [CryptPad](https://github.com/xwiki-labs/cryptpad) ⭐ 8,002 \| 🐛 354 \| 🌐 JavaScript \| 📅 2026-10-09          | Collaboration suite that is end-to-end encrypted                                                       |
-| [Outline](https://github.com/outline/outline) ⭐ 40,859 \| 🐛 75 \| 🌐 TypeScript \| 📅 2026-10-10               | A modern team knowledge base                                                                           |
-| [WeeWX](https://github.com/weewx/weewx) ⭐ 1,199 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-10                           | Weather station software                                                                               |
-| [Kimai](https://github.com/kevinpapst/kimai2) ⭐ 5,066 \| 🐛 355 \| 🌐 PHP \| 📅 2026-10-10                      | Time-tracking application                                                                              |
+| [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,904 \| 🐛 166 \| 🌐 PHP \| 📅 2026-10-11                   | Project management software                                                                            |
+| [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,583 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-10-11          | Real-time collaborative document editing                                                               |
+| [OnlyOffice](https://github.com/ONLYOFFICE/Docker-DocumentServer) ⭐ 2,477 \| 🐛 27 \| 🌐 Shell \| 📅 2026-10-11 | Office suite that enables you to manage documents, projects, team, and customer relations in one place |
+| [CryptPad](https://github.com/xwiki-labs/cryptpad) ⭐ 8,004 \| 🐛 354 \| 🌐 JavaScript \| 📅 2026-10-09          | Collaboration suite that is end-to-end encrypted                                                       |
+| [Outline](https://github.com/outline/outline) ⭐ 40,867 \| 🐛 77 \| 🌐 TypeScript \| 📅 2026-10-11               | A modern team knowledge base                                                                           |
+| [WeeWX](https://github.com/weewx/weewx) ⭐ 1,199 \| 🐛 6 \| 🌐 Python \| 📅 2026-10-10                           | Weather station software                                                                               |
+| [Kimai](https://github.com/kevinpapst/kimai2) ⭐ 5,068 \| 🐛 354 \| 🌐 PHP \| 📅 2026-10-11                      | Time-tracking application                                                                              |
 | [Restyaboard](https://github.com/RestyaPlatform/board) ⭐ 2,089 \| 🐛 189 \| 🌐 JavaScript \| 📅 2023-10-26      | Open-source Trello-like kanban board                                                                   |
 | [Taskcafe](https://github.com/JordanKnott/taskcafe) ⭐ 5,214 \| 🐛 23 \| 🌐 TypeScript \| 📅 2023-07-23          | Open-source project management tool                                                                    |
-| [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,499 \| 🐛 784 \| 🌐 TypeScript \| 📅 2026-05-18     | Open-source project management tool                                                                    |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,227 \| 🐛 1,039 \| 🌐 Dart \| 📅 2026-10-08            | Open-source Notion alternative with a focus on privacy and extensibility.                              |
+| [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,500 \| 🐛 784 \| 🌐 TypeScript \| 📅 2026-05-18     | Open-source project management tool                                                                    |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 77,229 \| 🐛 1,037 \| 🌐 Dart \| 📅 2026-10-08            | Open-source Notion alternative with a focus on privacy and extensibility.                              |
 | [Tillywork](https://github.com/tillywork/tillywork)                                                             | Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place   |
-| [Huly](https://github.com/hcengineering/platform) ⭐ 27,865 \| 🐛 847 \| 🌐 TypeScript \| 📅 2026-10-07          | All-in-One Project Management Platform                                                                 |
+| [Huly](https://github.com/hcengineering/platform) ⭐ 27,871 \| 🐛 847 \| 🌐 TypeScript \| 📅 2026-10-07          | All-in-One Project Management Platform                                                                 |
 
 ## Development
 
 | Project                                                                                                          | Description                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [GitLab](https://github.com/gitlab/gitlab-ce)                                                                    | DevOps platform                                                                             |
-| [Gitea](https://github.com/go-gitea/gitea) ⭐ 58,414 \| 🐛 2,314 \| 🌐 Go \| 📅 2026-10-10                        | Lightweight code hosting solution                                                           |
-| [Drone](https://github.com/drone/drone) ⭐ 38,513 \| 🐛 117 \| 🌐 Go \| 📅 2026-10-09                             | Continuous Integration platform                                                             |
-| [Jenkins](https://github.com/jenkinsci/docker) ⭐ 7,654 \| 🐛 20 \| 🌐 PowerShell \| 📅 2026-10-09                | Automation server for CI/CD                                                                 |
-| [Gogs](https://github.com/gogs/gogs) ⭐ 47,865 \| 🐛 1,012 \| 🌐 Go \| 📅 2026-09-12                              | Painless self-hosted Git service                                                            |
-| [Portainer](https://github.com/portainer/portainer) ⭐ 38,630 \| 🐛 766 \| 🌐 TypeScript \| 📅 2026-10-08         | Lightweight management UI for Docker                                                        |
+| [Gitea](https://github.com/go-gitea/gitea) ⭐ 58,441 \| 🐛 2,314 \| 🌐 Go \| 📅 2026-10-11                        | Lightweight code hosting solution                                                           |
+| [Drone](https://github.com/drone/drone) ⭐ 38,518 \| 🐛 117 \| 🌐 Go \| 📅 2026-10-09                             | Continuous Integration platform                                                             |
+| [Jenkins](https://github.com/jenkinsci/docker) ⭐ 7,659 \| 🐛 20 \| 🌐 PowerShell \| 📅 2026-10-11                | Automation server for CI/CD                                                                 |
+| [Gogs](https://github.com/gogs/gogs) ⭐ 47,866 \| 🐛 1,009 \| 🌐 Go \| 📅 2026-09-12                              | Painless self-hosted Git service                                                            |
+| [Portainer](https://github.com/portainer/portainer) ⭐ 38,642 \| 🐛 766 \| 🌐 TypeScript \| 📅 2026-10-08         | Lightweight management UI for Docker                                                        |
 | [SonarQube](https://github.com/SonarSource/docker-sonarqube) ⭐ 1,570 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-05       | Continuous inspection of code quality                                                       |
-| [Sentry](https://github.com/getsentry/onpremise) ⭐ 9,601 \| 🐛 144 \| 🌐 Shell \| 📅 2026-10-10                  | Error tracking and performance monitoring                                                   |
+| [Sentry](https://github.com/getsentry/onpremise) ⭐ 9,605 \| 🐛 144 \| 🌐 Shell \| 📅 2026-10-10                  | Error tracking and performance monitoring                                                   |
 | [Taiga](https://github.com/taigaio/taiga-back) ⭐ 858 \| 🐛 94 \| 🌐 Python \| 📅 2026-09-28                      | Project management platform                                                                 |
 | [Redmine](https://github.com/bitnami/bitnami-docker-redmine)                                                     | Project management web application                                                          |
 | [Phabricator](https://github.com/phacility/phabricator) ⭐ 12,288 \| 🐛 3 \| 🌐 PHP \| 📅 2024-04-12              | Suite of open-source tools for peer code review, task management, and project communication |
-| [Code-Server](https://github.com/cdr/code-server) ⭐ 79,576 \| 🐛 151 \| 🌐 TypeScript \| 📅 2026-10-09           | Run VS Code on any machine anywhere                                                         |
-| [Theia](https://github.com/eclipse-theia/theia) ⭐ 21,705 \| 🐛 1,504 \| 🌐 TypeScript \| 📅 2026-10-09           | Cloud & desktop IDE framework implemented in TypeScript                                     |
+| [Code-Server](https://github.com/cdr/code-server) ⭐ 79,586 \| 🐛 151 \| 🌐 TypeScript \| 📅 2026-10-09           | Run VS Code on any machine anywhere                                                         |
+| [Theia](https://github.com/eclipse-theia/theia) ⭐ 21,704 \| 🐛 1,506 \| 🌐 TypeScript \| 📅 2026-10-09           | Cloud & desktop IDE framework implemented in TypeScript                                     |
 | [JupyterHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,354 \| 🐛 200 \| 🌐 Python \| 📅 2026-10-10           | Multi-user server for Jupyter notebooks                                                     |
 | [GitBucket](https://github.com/gitbucket/gitbucket) ⭐ 9,403 \| 🐛 328 \| 🌐 Scala \| 📅 2026-10-10               | Git platform powered by Scala                                                               |
-| [Gerrit](https://github.com/GerritCodeReview/gerrit) ⭐ 1,233 \| 🐛 3 \| 🌐 Java \| 📅 2026-10-10                 | Web-based code review system                                                                |
+| [Gerrit](https://github.com/GerritCodeReview/gerrit) ⭐ 1,233 \| 🐛 3 \| 🌐 Java \| 📅 2026-10-11                 | Web-based code review system                                                                |
 | [Fossil](https://github.com/fossil-scm/fossil)                                                                   | Distributed version control system                                                          |
 | [Sourcegraph](https://github.com/sourcegraph/deploy-sourcegraph-docker) ⭐ 166 \| 🐛 47 \| 🌐 Go \| 📅 2026-10-10 | Code search and navigation tool                                                             |
 | [CodiMD](https://github.com/hackmdio/codimd) ⭐ 10,155 \| 🐛 356 \| 🌐 JavaScript \| 📅 2025-10-02                | Real-time collaborative markdown notes                                                      |
-| [Leantime](https://github.com/Leantime/leantime) ⭐ 11,797 \| 🐛 238 \| 🌐 PHP \| 📅 2026-10-10                   | Open-source project management system                                                       |
-| [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,163 \| 🐛 112 \| 🌐 Zig \| 📅 2026-10-09          | The financial transactions database designed for mission critical safety and performance.   |
+| [Leantime](https://github.com/Leantime/leantime) ⭐ 11,808 \| 🐛 239 \| 🌐 PHP \| 📅 2026-10-11                   | Open-source project management system                                                       |
+| [Tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,173 \| 🐛 112 \| 🌐 Zig \| 📅 2026-10-11          | The financial transactions database designed for mission critical safety and performance.   |
 | [Undb](https://github.com/undb-io/undb) ⚠️ Archived                                                              | No Code Database & BaaS                                                                     |
 
 ## Media
 
 | Project                                                                                                            | Description                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Plex](https://github.com/plexinc/pms-docker) ⭐ 4,033 \| 🐛 4 \| 🌐 Go Template \| 📅 2026-10-08                   | Media server                                                                                                                                                 |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 57,980 \| 🐛 724 \| 🌐 C# \| 📅 2026-10-10                      | Media system                                                                                                                                                 |
+| [Plex](https://github.com/plexinc/pms-docker) ⭐ 4,034 \| 🐛 4 \| 🌐 Go Template \| 📅 2026-10-11                   | Media server                                                                                                                                                 |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 58,007 \| 🐛 736 \| 🌐 C# \| 📅 2026-10-11                      | Media system                                                                                                                                                 |
 | [Airsonic](https://github.com/airsonic/airsonic) ⚠️ Archived                                                       | Music streaming server                                                                                                                                       |
-| [Photoprism](https://github.com/photoprism/photoprism) ⭐ 40,281 \| 🐛 457 \| 🌐 Go \| 📅 2026-10-10                | Personal photo management                                                                                                                                    |
-| [Navidrome](https://github.com/navidrome/navidrome) ⭐ 24,082 \| 🐛 301 \| 🌐 Go \| 📅 2026-10-10                   | Music server and streamer                                                                                                                                    |
+| [Photoprism](https://github.com/photoprism/photoprism) ⭐ 40,282 \| 🐛 457 \| 🌐 Go \| 📅 2026-10-11                | Personal photo management                                                                                                                                    |
+| [Navidrome](https://github.com/navidrome/navidrome) ⭐ 24,103 \| 🐛 302 \| 🌐 Go \| 📅 2026-10-11                   | Music server and streamer                                                                                                                                    |
 | [Emby](https://github.com/MediaBrowser/Emby) ⭐ 4,990 \| 🐛 136 \| 🌐 C# \| 📅 2024-03-27                           | Media server for personal streaming                                                                                                                          |
 | [Karaoke Eternal](https://github.com/matthuisman/karaoke-forever)                                                  | Host your own karaoke party                                                                                                                                  |
-| [Radarr](https://github.com/Radarr/Radarr) ⭐ 14,543 \| 🐛 536 \| 🌐 C# \| 📅 2026-10-09                            | Movie collection manager                                                                                                                                     |
-| [Sonarr](https://github.com/Sonarr/Sonarr) ⭐ 16,953 \| 🐛 102 \| 🌐 C# \| 📅 2026-10-10                            | TV series collection manager                                                                                                                                 |
-| [Lidarr](https://github.com/Lidarr/Lidarr) ⭐ 5,731 \| 🐛 867 \| 🌐 C# \| 📅 2026-10-09                             | Music collection manager                                                                                                                                     |
-| [SickChill](https://github.com/SickChill/SickChill) ⭐ 2,443 \| 🐛 9 \| 🌐 Python \| 📅 2026-10-08                  | Automatic Video Library Manager for TV Shows                                                                                                                 |
-| [MyMediaForAlexa](https://github.com/mikebrady/shairport-sync) ⭐ 8,885 \| 🐛 14 \| 🌐 C \| 📅 2026-10-07           | Stream your own music to Alexa devices                                                                                                                       |
-| [Koel](https://github.com/koel/koel) ⭐ 17,275 \| 🐛 16 \| 🌐 PHP \| 📅 2026-10-10                                  | Personal music streaming server                                                                                                                              |
-| [Subsonic](https://github.com/ejurgensen/forked-daapd) ⭐ 2,569 \| 🐛 121 \| 🌐 C \| 📅 2026-10-09                  | Music server and streamer                                                                                                                                    |
-| [Ampache](https://github.com/ampache/ampache) ⭐ 3,831 \| 🐛 282 \| 🌐 PHP \| 📅 2026-10-08                         | Web-based audio/video streaming application                                                                                                                  |
-| [LibreTime](https://github.com/LibreTime/libretime) ⭐ 937 \| 🐛 155 \| 🌐 PHP \| 📅 2026-10-09                     | Open-source radio management software                                                                                                                        |
+| [Radarr](https://github.com/Radarr/Radarr) ⭐ 14,553 \| 🐛 536 \| 🌐 C# \| 📅 2026-10-11                            | Movie collection manager                                                                                                                                     |
+| [Sonarr](https://github.com/Sonarr/Sonarr) ⭐ 16,989 \| 🐛 87 \| 🌐 C# \| 📅 2026-10-11                             | TV series collection manager                                                                                                                                 |
+| [Lidarr](https://github.com/Lidarr/Lidarr) ⭐ 5,732 \| 🐛 865 \| 🌐 C# \| 📅 2026-10-11                             | Music collection manager                                                                                                                                     |
+| [SickChill](https://github.com/SickChill/SickChill) ⭐ 2,444 \| 🐛 9 \| 🌐 Python \| 📅 2026-10-08                  | Automatic Video Library Manager for TV Shows                                                                                                                 |
+| [MyMediaForAlexa](https://github.com/mikebrady/shairport-sync) ⭐ 8,886 \| 🐛 14 \| 🌐 C \| 📅 2026-10-11           | Stream your own music to Alexa devices                                                                                                                       |
+| [Koel](https://github.com/koel/koel) ⭐ 17,276 \| 🐛 16 \| 🌐 PHP \| 📅 2026-10-11                                  | Personal music streaming server                                                                                                                              |
+| [Subsonic](https://github.com/ejurgensen/forked-daapd) ⭐ 2,570 \| 🐛 120 \| 🌐 C \| 📅 2026-10-10                  | Music server and streamer                                                                                                                                    |
+| [Ampache](https://github.com/ampache/ampache) ⭐ 3,833 \| 🐛 282 \| 🌐 PHP \| 📅 2026-10-08                         | Web-based audio/video streaming application                                                                                                                  |
+| [LibreTime](https://github.com/LibreTime/libretime) ⭐ 937 \| 🐛 155 \| 🌐 PHP \| 📅 2026-10-11                     | Open-source radio management software                                                                                                                        |
 | [Headphones](https://github.com/rembo10/headphones) ⭐ 3,754 \| 🐛 532 \| 🌐 Python \| 📅 2025-08-08                | Automated music downloader for NZB and Torrent                                                                                                               |
-| [Beets](https://github.com/beetbox/beets) ⭐ 15,776 \| 🐛 685 \| 🌐 Python \| 📅 2026-10-10                         | Music library manager and MusicBrainz tagger                                                                                                                 |
-| [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,594 \| 🐛 185 \| 🌐 Python \| 📅 2026-10-10                         | Extensible music server                                                                                                                                      |
+| [Beets](https://github.com/beetbox/beets) ⭐ 15,778 \| 🐛 686 \| 🌐 Python \| 📅 2026-10-10                         | Music library manager and MusicBrainz tagger                                                                                                                 |
+| [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,595 \| 🐛 185 \| 🌐 Python \| 📅 2026-10-10                         | Extensible music server                                                                                                                                      |
 | [Piwigo](https://github.com/Piwigo/Piwigo) ⭐ 3,867 \| 🐛 751 \| 🌐 PHP \| 📅 2026-10-09                            | Photo gallery software for the web                                                                                                                           |
-| [Prowlarr](https://github.com/Prowlarr/Prowlarr) ⭐ 7,355 \| 🐛 149 \| 🌐 C# \| 📅 2026-10-09                       | An indexer manager/proxy built on \*Arr to integrate with various media software like Sonarr, Radarr, and Lidarr. Supports multiple indexers and automation. |
-| [Cobalt](https://github.com/imputnet/cobalt) ⭐ 44,828 \| 🐛 275 \| 🌐 Svelte \| 📅 2026-04-06                      | Quick Media Downloader                                                                                                                                       |
-| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 14,605 \| 🐛 1,219 \| 🌐 JavaScript \| 📅 2026-10-05 | Self-hosted audiobook and podcast server with a web player and mobile apps.                                                                                  |
-| [ SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,338 \| 🐛 10 \| 🌐 Python \| 📅 2026-10-08    | Companion tool for Overseerr and Jellyfin that provides media recommendations.                                                                               |
+| [Prowlarr](https://github.com/Prowlarr/Prowlarr) ⭐ 7,363 \| 🐛 150 \| 🌐 C# \| 📅 2026-10-09                       | An indexer manager/proxy built on \*Arr to integrate with various media software like Sonarr, Radarr, and Lidarr. Supports multiple indexers and automation. |
+| [Cobalt](https://github.com/imputnet/cobalt) ⭐ 44,864 \| 🐛 275 \| 🌐 Svelte \| 📅 2026-04-06                      | Quick Media Downloader                                                                                                                                       |
+| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 14,614 \| 🐛 1,225 \| 🌐 JavaScript \| 📅 2026-10-05 | Self-hosted audiobook and podcast server with a web player and mobile apps.                                                                                  |
+| [ SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,338 \| 🐛 10 \| 🌐 Python \| 📅 2026-10-11    | Companion tool for Overseerr and Jellyfin that provides media recommendations.                                                                               |
 
 ## Communication
 
 | Project                                                                                                              | Description                                    |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,244 \| 🐛 4,209 \| 🌐 TypeScript \| 📅 2026-10-10      | Communication platform                         |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,246 \| 🐛 4,205 \| 🌐 TypeScript \| 📅 2026-10-11      | Communication platform                         |
 | [Matrix Synapse](https://github.com/matrix-org/synapse) ⚠️ Archived                                                  | Matrix reference homeserver                    |
 | [Jitsi Meet](https://github.com/jitsi/docker-jitsi-meet) ⭐ 3,617 \| 🐛 13 \| 🌐 Lua \| 📅 2026-10-05                 | Video conferencing solution                    |
-| [Zulip](https://github.com/zulip/zulip) ⭐ 26,027 \| 🐛 2,048 \| 🌐 Python \| 📅 2026-10-09                           | Team chat                                      |
-| [Mumble](https://github.com/mumble-voip/mumble) ⭐ 8,331 \| 🐛 481 \| 🌐 C++ \| 📅 2026-10-09                         | Low-latency voice chat                         |
-| [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,306 \| 🐛 1,087 \| 🌐 TypeScript \| 📅 2026-10-10 | Open-source, self-hostable online chat service |
-| [Element](https://github.com/vector-im/element-web) ⭐ 13,552 \| 🐛 3,716 \| 🌐 TypeScript \| 📅 2026-10-10           | A glossy Matrix collaboration client           |
+| [Zulip](https://github.com/zulip/zulip) ⭐ 26,026 \| 🐛 2,055 \| 🌐 Python \| 📅 2026-10-11                           | Team chat                                      |
+| [Mumble](https://github.com/mumble-voip/mumble) ⭐ 8,336 \| 🐛 479 \| 🌐 C++ \| 📅 2026-10-11                         | Low-latency voice chat                         |
+| [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,311 \| 🐛 1,089 \| 🌐 TypeScript \| 📅 2026-10-11 | Open-source, self-hostable online chat service |
+| [Element](https://github.com/vector-im/element-web) ⭐ 13,558 \| 🐛 3,717 \| 🌐 TypeScript \| 📅 2026-10-11           | A glossy Matrix collaboration client           |
 | [Discourse](https://github.com/discourse/discourse_docker) ⭐ 1,861 \| 🐛 15 \| 🌐 Shell \| 📅 2026-10-06             | Open-source discussion platform                |
-| [Postal](https://github.com/postalhq/postal) ⭐ 16,859 \| 🐛 96 \| 🌐 Ruby \| 📅 2026-10-06                           | Mail delivery platform                         |
-| [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,547 \| 🐛 104 \| 🌐 Python \| 📅 2026-10-09                              | Full-featured mail server                      |
-| [Matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,577 \| 🐛 337 \| 🌐 Go \| 📅 2024-12-12                    | Bridge between various chat protocols          |
-| [Misskey](https://github.com/syuilo/misskey) ⭐ 11,336 \| 🐛 2,547 \| 🌐 TypeScript \| 📅 2026-10-10                  | Decentralized social media platform            |
-| [Friendica](https://github.com/friendica/friendica) ⭐ 1,691 \| 🐛 1,373 \| 🌐 PHP \| 📅 2026-10-10                   | Decentralized social network                   |
+| [Postal](https://github.com/postalhq/postal) ⭐ 16,858 \| 🐛 96 \| 🌐 Ruby \| 📅 2026-10-06                           | Mail delivery platform                         |
+| [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,547 \| 🐛 105 \| 🌐 Python \| 📅 2026-10-09                              | Full-featured mail server                      |
+| [Matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,580 \| 🐛 337 \| 🌐 Go \| 📅 2024-12-12                    | Bridge between various chat protocols          |
+| [Misskey](https://github.com/syuilo/misskey) ⭐ 11,337 \| 🐛 2,547 \| 🌐 TypeScript \| 📅 2026-10-10                  | Decentralized social media platform            |
+| [Friendica](https://github.com/friendica/friendica) ⭐ 1,692 \| 🐛 1,376 \| 🌐 PHP \| 📅 2026-10-11                   | Decentralized social network                   |
 | [Hubzilla](https://github.com/redmatrix/hubzilla)                                                                    | Decentralized publishing platform              |
 | [GNU social](https://github.com/gnusocial/gnusocial)                                                                 | Decentralized social network                   |
 | [Diaspora](https://github.com/diaspora/diaspora) ⭐ 13,649 \| 🐛 425 \| 🌐 Ruby \| 📅 2026-07-28                      | Distributed social networking service          |
 | [Pleroma](https://github.com/pleroma/pleroma)                                                                        | Lightweight social networking server           |
-| [Movim](https://github.com/movim/movim) ⭐ 2,062 \| 🐛 42 \| 🌐 PHP \| 📅 2026-10-09                                  | Decentralized social platform                  |
+| [Movim](https://github.com/movim/movim) ⭐ 2,063 \| 🐛 45 \| 🌐 PHP \| 📅 2026-10-11                                  | Decentralized social platform                  |
 | [Scuttlebutt](https://github.com/ssbc/patchwork) ⚠️ Archived                                                         | Decentralized social network                   |
-| [Threema Web](https://github.com/threema-ch/threema-web) ⭐ 1,068 \| 🐛 138 \| 🌐 TypeScript \| 📅 2026-10-03         | Secure messaging app                           |
+| [Threema Web](https://github.com/threema-ch/threema-web) ⭐ 1,069 \| 🐛 138 \| 🌐 TypeScript \| 📅 2026-10-03         | Secure messaging app                           |
 
 ## Security
 
 | Project                                                                                                        | Description                                       |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,265 \| 🐛 266 \| 🌐 C# \| 📅 2026-10-10                  | Password manager                                  |
-| [Authelia](https://github.com/authelia/authelia) ⭐ 29,226 \| 🐛 135 \| 🌐 Go \| 📅 2026-10-10                  | Authentication and authorization server           |
-| [Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,276 \| 🐛 3,241 \| 🌐 Java \| 📅 2026-10-10              | Identity and access management                    |
-| [Vault](https://github.com/hashicorp/vault) ⭐ 36,381 \| 🐛 1,458 \| 🌐 Go \| 📅 2026-10-09                     | Secrets management                                |
-| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,801 \| 🐛 90 \| 🌐 Rust \| 📅 2026-10-10        | Unofficial Bitwarden server                       |
-| [Fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,764 \| 🐛 278 \| 🌐 Python \| 📅 2026-10-09              | Intrusion prevention software framework           |
-| [OSSEC](https://github.com/ossec/ossec-hids) ⭐ 5,061 \| 🐛 37 \| 🌐 C \| 📅 2026-10-10                         | Open Source Host-based Intrusion Detection System |
-| [ClamAV](https://github.com/Cisco-Talos/clamav) ⭐ 7,355 \| 🐛 406 \| 🌐 C \| 📅 2026-08-27                     | Open-source antivirus engine                      |
+| [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,275 \| 🐛 266 \| 🌐 C# \| 📅 2026-10-11                  | Password manager                                  |
+| [Authelia](https://github.com/authelia/authelia) ⭐ 29,236 \| 🐛 137 \| 🌐 Go \| 📅 2026-10-11                  | Authentication and authorization server           |
+| [Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,292 \| 🐛 3,244 \| 🌐 Java \| 📅 2026-10-11              | Identity and access management                    |
+| [Vault](https://github.com/hashicorp/vault) ⭐ 36,381 \| 🐛 1,461 \| 🌐 Go \| 📅 2026-10-11                     | Secrets management                                |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,862 \| 🐛 92 \| 🌐 Rust \| 📅 2026-10-10        | Unofficial Bitwarden server                       |
+| [Fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,777 \| 🐛 278 \| 🌐 Python \| 📅 2026-10-10              | Intrusion prevention software framework           |
+| [OSSEC](https://github.com/ossec/ossec-hids) ⭐ 5,061 \| 🐛 37 \| 🌐 C \| 📅 2026-10-11                         | Open Source Host-based Intrusion Detection System |
+| [ClamAV](https://github.com/Cisco-Talos/clamav) ⭐ 7,361 \| 🐛 408 \| 🌐 C \| 📅 2026-08-27                     | Open-source antivirus engine                      |
 | [OpenVPN](https://github.com/kylemanna/docker-openvpn) ⭐ 9,088 \| 🐛 305 \| 🌐 Shell \| 📅 2025-05-21          | Open-source VPN solution                          |
 | [WireGuard](https://github.com/linuxserver/docker-wireguard) ⭐ 3,642 \| 🐛 3 \| 🌐 Dockerfile \| 📅 2026-10-08 | Fast and modern VPN solution                      |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,131 \| 🐛 304 \| 🌐 Go \| 📅 2026-10-09             | Collaborative security engine                     |
-| [ModSecurity](https://github.com/SpiderLabs/ModSecurity) ⭐ 9,798 \| 🐛 358 \| 🌐 C++ \| 📅 2026-10-03          | Open-source web application firewall              |
-| [Suricata](https://github.com/OISF/suricata) ⭐ 6,720 \| 🐛 91 \| 🌐 C \| 📅 2026-10-09                         | Network threat detection engine                   |
-| [Snort](https://github.com/snort3/snort3) ⭐ 3,434 \| 🐛 82 \| 🌐 C++ \| 📅 2026-04-23                          | Network intrusion detection system                |
-| [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,194 \| 🐛 3,166 \| 🌐 C++ \| 📅 2026-10-09                        | Security monitoring and SIEM                      |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,141 \| 🐛 305 \| 🌐 Go \| 📅 2026-10-09             | Collaborative security engine                     |
+| [ModSecurity](https://github.com/SpiderLabs/ModSecurity) ⭐ 9,797 \| 🐛 359 \| 🌐 C++ \| 📅 2026-10-03          | Open-source web application firewall              |
+| [Suricata](https://github.com/OISF/suricata) ⭐ 6,723 \| 🐛 91 \| 🌐 C \| 📅 2026-10-09                         | Network threat detection engine                   |
+| [Snort](https://github.com/snort3/snort3) ⭐ 3,435 \| 🐛 82 \| 🌐 C++ \| 📅 2026-04-23                          | Network intrusion detection system                |
+| [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,208 \| 🐛 3,169 \| 🌐 C++ \| 📅 2026-10-11                        | Security monitoring and SIEM                      |
 | [OpenSCAP](https://github.com/OpenSCAP/openscap) ⭐ 1,827 \| 🐛 59 \| 🌐 XSLT \| 📅 2026-10-09                  | Security compliance solutions                     |
 | [Rspamd](https://github.com/rspamd/rspamd) ⭐ 2,547 \| 🐛 303 \| 🌐 C \| 📅 2026-10-10                          | Fast, free and open-source spam filtering system  |
-| [SpamAssassin](https://github.com/apache/spamassassin) ⭐ 344 \| 🐛 5 \| 🌐 Perl \| 📅 2026-10-10               | Open-source anti-spam platform                    |
-| [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,151 \| 🐛 2,075 \| 🌐 Java \| 📅 2026-10-09         | Log management platform                           |
+| [SpamAssassin](https://github.com/apache/spamassassin) ⭐ 344 \| 🐛 5 \| 🌐 Perl \| 📅 2026-10-11               | Open-source anti-spam platform                    |
+| [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,152 \| 🐛 2,075 \| 🌐 Java \| 📅 2026-10-09         | Log management platform                           |
 
 ## Monitoring
 
 | Project                                                                                                            | Description                                                                             |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| [Grafana](https://github.com/grafana/grafana) ⭐ 77,222 \| 🐛 3,301 \| 🌐 TypeScript \| 📅 2026-10-10               | Analytics and monitoring solution                                                       |
-| [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,461 \| 🐛 989 \| 🌐 Go \| 📅 2026-10-10                | Monitoring system and time series database                                              |
-| [Netdata](https://github.com/netdata/netdata) ⭐ 80,870 \| 🐛 437 \| 🌐 Go \| 📅 2026-10-10                         | Real-time performance monitoring                                                        |
-| [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,299 \| 🐛 829 \| 🌐 JavaScript \| 📅 2026-10-10        | Uptime monitoring tool                                                                  |
-| [Zabbix](https://github.com/zabbix/zabbix) ⭐ 6,462 \| 🐛 110 \| 🌐 Go Template \| 📅 2026-10-09                    | Enterprise-class monitoring solution                                                    |
-| [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,759 \| 🐛 2,178 \| 🌐 Rust \| 📅 2026-10-10                | Time series database                                                                    |
-| [Telegraf](https://github.com/influxdata/telegraf) ⭐ 17,851 \| 🐛 418 \| 🌐 Go \| 📅 2026-10-09                    | Server agent for collecting and reporting metrics                                       |
-| [Cacti](https://github.com/Cacti/cacti) ⭐ 1,876 \| 🐛 326 \| 🌐 PHP \| 📅 2026-10-10                               | Network monitoring and graphing tool                                                    |
+| [Grafana](https://github.com/grafana/grafana) ⭐ 77,252 \| 🐛 3,295 \| 🌐 TypeScript \| 📅 2026-10-11               | Analytics and monitoring solution                                                       |
+| [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,476 \| 🐛 997 \| 🌐 Go \| 📅 2026-10-11                | Monitoring system and time series database                                              |
+| [Netdata](https://github.com/netdata/netdata) ⭐ 80,889 \| 🐛 441 \| 🌐 Go \| 📅 2026-10-11                         | Real-time performance monitoring                                                        |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,332 \| 🐛 829 \| 🌐 JavaScript \| 📅 2026-10-11        | Uptime monitoring tool                                                                  |
+| [Zabbix](https://github.com/zabbix/zabbix) ⭐ 6,463 \| 🐛 110 \| 🌐 Go Template \| 📅 2026-10-09                    | Enterprise-class monitoring solution                                                    |
+| [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,757 \| 🐛 2,179 \| 🌐 Rust \| 📅 2026-10-10                | Time series database                                                                    |
+| [Telegraf](https://github.com/influxdata/telegraf) ⭐ 17,852 \| 🐛 419 \| 🌐 Go \| 📅 2026-10-09                    | Server agent for collecting and reporting metrics                                       |
+| [Cacti](https://github.com/Cacti/cacti) ⭐ 1,876 \| 🐛 346 \| 🌐 PHP \| 📅 2026-10-11                               | Network monitoring and graphing tool                                                    |
 | [Nagios](https://github.com/NagiosEnterprises/nagioscore) ⭐ 2,049 \| 🐛 211 \| 🌐 C \| 📅 2026-08-07               | IT infrastructure monitoring                                                            |
-| [Checkmk](https://github.com/tribe29/checkmk) ⭐ 2,389 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-10                       | Monitoring system for IT infrastructure                                                 |
-| [LibreNMS](https://github.com/librenms/librenms) ⭐ 4,946 \| 🐛 168 \| 🌐 PHP \| 📅 2026-10-09                      | Network monitoring system                                                               |
+| [Checkmk](https://github.com/tribe29/checkmk) ⭐ 2,390 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-11                       | Monitoring system for IT infrastructure                                                 |
+| [LibreNMS](https://github.com/librenms/librenms) ⭐ 4,948 \| 🐛 169 \| 🌐 PHP \| 📅 2026-10-11                      | Network monitoring system                                                               |
 | [Icinga](https://github.com/Icinga/icinga2) ⭐ 2,238 \| 🐛 502 \| 🌐 C++ \| 📅 2026-10-09                           | Monitoring system for IT infrastructure                                                 |
 | [Monit](https://github.com/monit/monit)                                                                            | Small Open Source utility for managing and monitoring Unix systems                      |
-| [Glances](https://github.com/nicolargo/glances) ⭐ 33,756 \| 🐛 106 \| 🌐 Python \| 📅 2026-10-10                   | Cross-platform monitoring tool                                                          |
+| [Glances](https://github.com/nicolargo/glances) ⭐ 33,761 \| 🐛 108 \| 🌐 Python \| 📅 2026-10-11                   | Cross-platform monitoring tool                                                          |
 | [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,876 \| 🐛 340 \| 🌐 Go \| 📅 2026-10-09                      | Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus |
-| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,839 \| 🐛 791 \| 🌐 Go \| 📅 2026-10-10 | Fast, cost-effective and scalable monitoring solution and time series database          |
-| [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,229 \| 🐛 914 \| 🌐 Go \| 📅 2026-10-10                         | Highly available Prometheus setup with long term storage capabilities                   |
-| [Kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,375 \| 🐛 833 \| 🌐 Go \| 📅 2026-09-22                   | Open-source framework for processing, monitoring, and alerting on time series data      |
+| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,842 \| 🐛 793 \| 🌐 Go \| 📅 2026-10-11 | Fast, cost-effective and scalable monitoring solution and time series database          |
+| [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,230 \| 🐛 915 \| 🌐 Go \| 📅 2026-10-10                         | Highly available Prometheus setup with long term storage capabilities                   |
+| [Kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,376 \| 🐛 833 \| 🌐 Go \| 📅 2026-09-22                   | Open-source framework for processing, monitoring, and alerting on time series data      |
 | [Bosun](https://github.com/bosun-monitor/bosun) ⚠️ Archived                                                        | Monitoring and alerting system by Stack Exchange                                        |
 | [Cerebro](https://github.com/lmenezes/cerebro) ⭐ 5,600 \| 🐛 208 \| 🌐 JavaScript \| 📅 2024-02-12                 | Web admin tool for Elasticsearch                                                        |
-| [Dozzle](https://github.com/amir20/dozzle) ⭐ 14,600 \| 🐛 1 \| 🌐 Go \| 📅 2026-10-10                              | Realtime log viewer for docker containers                                               |
+| [Dozzle](https://github.com/amir20/dozzle) ⭐ 14,609 \| 🐛 1 \| 🌐 Go \| 📅 2026-10-11                              | Realtime log viewer for docker containers                                               |
 
 ## File Sharing
 
 | Project                                                                                                        | Description                                                              |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Seafile](https://github.com/haiwen/seafile) ⭐ 15,320 \| 🐛 98 \| 🌐 C \| 📅 2026-10-10                        | File hosting and collaboration platform                                  |
-| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,283 \| 🐛 388 \| 🌐 Go \| 📅 2026-10-10               | Continuous file synchronization                                          |
+| [Seafile](https://github.com/haiwen/seafile) ⭐ 15,323 \| 🐛 98 \| 🌐 C \| 📅 2026-10-10                        | File hosting and collaboration platform                                  |
+| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,311 \| 🐛 388 \| 🌐 Go \| 📅 2026-10-10               | Continuous file synchronization                                          |
 | [ownCloud](https://github.com/owncloud/core) ⭐ 8,833 \| 🐛 141 \| 🌐 PHP \| 📅 2026-10-06                      | File hosting software                                                    |
 | [FileBrowser](https://github.com/filebrowser/filebrowser) ⚠️ Archived                                          | Web File Browser                                                         |
 | [Pydio Cells](https://github.com/pydio/cells) ⭐ 2,252 \| 🐛 53 \| 🌐 Go \| 📅 2026-10-08                       | Content collaboration platform                                           |
 | [Minio](https://github.com/minio/minio) ⚠️ Archived                                                            | High-performance object storage                                          |
-| [Nextcloud](https://github.com/nextcloud/docker) ⭐ 7,384 \| 🐛 141 \| 🌐 Shell \| 📅 2026-10-01                | Productivity platform for file hosting and collaboration                 |
+| [Nextcloud](https://github.com/nextcloud/docker) ⭐ 7,385 \| 🐛 141 \| 🌐 Shell \| 📅 2026-10-01                | Productivity platform for file hosting and collaboration                 |
 | [Cozy](https://github.com/cozy/cozy-stack) ⭐ 1,270 \| 🐛 77 \| 🌐 Go \| 📅 2026-10-10                          | Personal cloud server                                                    |
 | [Kinto](https://github.com/Kinto/kinto) ⭐ 4,417 \| 🐛 98 \| 🌐 Python \| 📅 2026-10-10                         | Minimalist JSON storage service                                          |
-| [ProjectSend](https://github.com/projectsend/projectsend) ⭐ 2,028 \| 🐛 11 \| 🌐 PHP \| 📅 2026-10-07          | Clients-oriented file uploading platform                                 |
-| [Caddy](https://github.com/caddyserver/caddy) ⭐ 77,692 \| 🐛 284 \| 🌐 Go \| 📅 2026-10-10                     | Fast, multi-platform web server with automatic HTTPS                     |
-| [Samba](https://github.com/samba-team/samba) ⭐ 1,143 \| 🐛 1 \| 🌐 C \| 📅 2026-10-10                          | Free software re-implementation of the SMB/CIFS networking protocol      |
+| [ProjectSend](https://github.com/projectsend/projectsend) ⭐ 2,028 \| 🐛 12 \| 🌐 PHP \| 📅 2026-10-07          | Clients-oriented file uploading platform                                 |
+| [Caddy](https://github.com/caddyserver/caddy) ⭐ 77,769 \| 🐛 288 \| 🌐 Go \| 📅 2026-10-11                     | Fast, multi-platform web server with automatic HTTPS                     |
+| [Samba](https://github.com/samba-team/samba) ⭐ 1,143 \| 🐛 1 \| 🌐 C \| 📅 2026-10-11                          | Free software re-implementation of the SMB/CIFS networking protocol      |
 | [Resilio Sync](https://github.com/Resilio/sync)                                                                | Fast, reliable, and simple file sync and share solution                  |
 | [Zenko](https://github.com/scality/Zenko) ⭐ 673 \| 🐛 17 \| 🌐 Gherkin \| 📅 2026-10-09                        | Open-source multi-cloud data controller                                  |
-| [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 42 \| 🐛 1 \| 🌐 Go \| 📅 2026-10-09                     | Distributed file system to store and serve billions of files fast        |
-| [Ceph](https://github.com/ceph/ceph) ⭐ 17,106 \| 🐛 1,696 \| 🌐 C++ \| 📅 2026-10-09                           | Distributed object, block, and file storage platform                     |
-| [GlusterFS](https://github.com/gluster/glusterfs) ⭐ 5,256 \| 🐛 328 \| 🌐 C \| 📅 2026-09-23                   | Scale-out network-attached storage file system                           |
-| [OpenMediaVault](https://github.com/openmediavault/openmediavault) ⭐ 6,991 \| 🐛 99 \| 🌐 PHP \| 📅 2026-10-10 | Next generation network attached storage solution based on Debian Linux  |
+| [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 42 \| 🐛 1 \| 🌐 Go \| 📅 2026-10-11                     | Distributed file system to store and serve billions of files fast        |
+| [Ceph](https://github.com/ceph/ceph) ⭐ 17,108 \| 🐛 1,697 \| 🌐 C++ \| 📅 2026-10-11                           | Distributed object, block, and file storage platform                     |
+| [GlusterFS](https://github.com/gluster/glusterfs) ⭐ 5,257 \| 🐛 328 \| 🌐 C \| 📅 2026-09-23                   | Scale-out network-attached storage file system                           |
+| [OpenMediaVault](https://github.com/openmediavault/openmediavault) ⭐ 6,993 \| 🐛 98 \| 🌐 PHP \| 📅 2026-10-11 | Next generation network attached storage solution based on Debian Linux  |
 | [XigmaNAS](https://github.com/xigmanas/xigmanas) ⭐ 2 \| 🐛 0 \| 📅 2024-07-05                                  | Open-source NAS (Network-Attached Storage) distribution based on FreeBSD |
-| [FreeNAS](https://github.com/freenas/freenas) ⭐ 2,605 \| 🐛 12 \| 🌐 Python \| 📅 2026-10-10                   | Open-source network-attached storage operating system based on FreeBSD   |
+| [FreeNAS](https://github.com/freenas/freenas) ⭐ 2,606 \| 🐛 11 \| 🌐 Python \| 📅 2026-10-11                   | Open-source network-attached storage operating system based on FreeBSD   |
 
 ## Home Automation
 
 | Project                                                                                                     | Description                                                    |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Home Assistant](https://github.com/home-assistant/core) ⭐ 91,359 \| 🐛 3,386 \| 🌐 Python \| 📅 2026-10-10 | Open source home automation                                    |
-| [OpenHAB](https://github.com/openhab/openhab-core) ⭐ 1,151 \| 🐛 376 \| 🌐 Java \| 📅 2026-10-10            | Vendor and technology agnostic open source automation software |
-| [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,821 \| 🐛 31 \| 🌐 C++ \| 📅 2026-10-09                | Home Automation System                                         |
-| [Node-RED](https://github.com/node-red/node-red) ⭐ 23,731 \| 🐛 341 \| 🌐 JavaScript \| 📅 2026-10-10       | Flow-based programming for the Internet of Things              |
-| [ESPHome](https://github.com/esphome/esphome) ⭐ 11,803 \| 🐛 765 \| 🌐 C++ \| 📅 2026-10-10                 | System to control your ESP8266/ESP32                           |
-| [Homebridge](https://github.com/homebridge/homebridge) ⭐ 25,504 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-08-30  | HomeKit support for the impatient                              |
+| [Home Assistant](https://github.com/home-assistant/core) ⭐ 91,383 \| 🐛 3,371 \| 🌐 Python \| 📅 2026-10-11 | Open source home automation                                    |
+| [OpenHAB](https://github.com/openhab/openhab-core) ⭐ 1,155 \| 🐛 376 \| 🌐 Java \| 📅 2026-10-11            | Vendor and technology agnostic open source automation software |
+| [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,822 \| 🐛 33 \| 🌐 C++ \| 📅 2026-10-09                | Home Automation System                                         |
+| [Node-RED](https://github.com/node-red/node-red) ⭐ 23,732 \| 🐛 343 \| 🌐 JavaScript \| 📅 2026-10-11       | Flow-based programming for the Internet of Things              |
+| [ESPHome](https://github.com/esphome/esphome) ⭐ 11,814 \| 🐛 751 \| 🌐 C++ \| 📅 2026-10-11                 | System to control your ESP8266/ESP32                           |
+| [Homebridge](https://github.com/homebridge/homebridge) ⭐ 25,505 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-08-30  | HomeKit support for the impatient                              |
 | [ioBroker](https://github.com/ioBroker/ioBroker) ⭐ 1,378 \| 🐛 43 \| 🌐 Shell \| 📅 2026-10-03              | Integration platform for the Internet of Things                |
-| [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,233 \| 🐛 43 \| 🌐 JavaScript \| 📅 2026-10-10      | Home Assistant for smart living                                |
+| [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,233 \| 🐛 46 \| 🌐 JavaScript \| 📅 2026-10-11      | Home Assistant for smart living                                |
 | [Jeedom](https://github.com/jeedom/core) ⭐ 414 \| 🐛 48 \| 🌐 PHP \| 📅 2026-10-10                          | Home automation platform                                       |
 | [OpenMotics](https://github.com/openmotics/frontend)                                                        | Home automation system                                         |
 
@@ -229,15 +229,15 @@
 
 | Project                                                                                                 | Description                                                   |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,940 \| 🐛 2,545 \| 🌐 PHP \| 📅 2026-10-09          | Web analytics platform                                        |
-| [Plausible](https://github.com/plausible/analytics) ⭐ 29,357 \| 🐛 65 \| 🌐 Elixir \| 📅 2026-10-09     | Lightweight and privacy-friendly web analytics                |
-| [Umami](https://github.com/mikecao/umami) ⭐ 39,295 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-10          | Simple, fast, privacy-focused alternative to Google Analytics |
+| [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,944 \| 🐛 2,545 \| 🌐 PHP \| 📅 2026-10-11          | Web analytics platform                                        |
+| [Plausible](https://github.com/plausible/analytics) ⭐ 29,366 \| 🐛 65 \| 🌐 Elixir \| 📅 2026-10-09     | Lightweight and privacy-friendly web analytics                |
+| [Umami](https://github.com/mikecao/umami) ⭐ 39,308 \| 🐛 122 \| 🌐 TypeScript \| 📅 2026-10-10          | Simple, fast, privacy-focused alternative to Google Analytics |
 | [Ackee](https://github.com/electerious/Ackee) ⭐ 4,716 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-10-08        | Self-hosted analytics tool                                    |
-| [GoAccess](https://github.com/allinurl/goaccess) ⭐ 21,013 \| 🐛 450 \| 🌐 C \| 📅 2026-10-01            | Real-time web log analyzer                                    |
-| [Metabase](https://github.com/metabase/metabase) ⭐ 49,606 \| 🐛 4,556 \| 🌐 Clojure \| 📅 2026-10-10    | Business intelligence and analytics                           |
-| [Redash](https://github.com/getredash/redash) ⭐ 28,831 \| 🐛 813 \| 🌐 Python \| 📅 2026-10-08          | Make sense of your data                                       |
+| [GoAccess](https://github.com/allinurl/goaccess) ⭐ 21,019 \| 🐛 450 \| 🌐 C \| 📅 2026-10-01            | Real-time web log analyzer                                    |
+| [Metabase](https://github.com/metabase/metabase) ⭐ 49,620 \| 🐛 4,561 \| 🌐 Clojure \| 📅 2026-10-11    | Business intelligence and analytics                           |
+| [Redash](https://github.com/getredash/redash) ⭐ 28,832 \| 🐛 813 \| 🌐 Python \| 📅 2026-10-08          | Make sense of your data                                       |
 | [Countly](https://github.com/Countly/countly-server) ⭐ 5,914 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-10-09 | Product analytics platform                                    |
-| [PostHog](https://github.com/PostHog/posthog) ⭐ 40,217 \| 🐛 5,533 \| 🌐 Python \| 📅 2026-10-10        | Open-source product analytics                                 |
+| [PostHog](https://github.com/PostHog/posthog) ⭐ 40,220 \| 🐛 5,585 \| 🌐 Python \| 📅 2026-10-11        | Open-source product analytics                                 |
 | [Fathom](https://github.com/usefathom/fathom) ⭐ 8,021 \| 🐛 5 \| 🌐 Go \| 📅 2026-03-18                 | Simple, privacy-focused website analytics                     |
 | [Vince](https://github.com/vinceanalytics/vince) ⭐ 2,014 \| 🐛 21 \| 🌐 Go \| 📅 2025-09-01             | Self Hosted Alternative To Google Analytics                   |
 
@@ -245,16 +245,16 @@
 
 | Project                                                                                                  | Description                                                                       |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Pi-hole](https://github.com/pi-hole/docker-pi-hole) ⭐ 11,666 \| 🐛 11 \| 🌐 Shell \| 📅 2026-10-02      | Network-wide ad blocking                                                          |
-| [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,267 \| 🐛 690 \| 🌐 PHP \| 📅 2026-10-09           | Self-hosted RSS feed aggregator                                                   |
+| [Pi-hole](https://github.com/pi-hole/docker-pi-hole) ⭐ 11,666 \| 🐛 10 \| 🌐 Shell \| 📅 2026-10-11      | Network-wide ad blocking                                                          |
+| [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 16,272 \| 🐛 692 \| 🌐 PHP \| 📅 2026-10-11           | Self-hosted RSS feed aggregator                                                   |
 | [Wallabag](https://github.com/wallabag/wallabag) ⭐ 13,006 \| 🐛 769 \| 🌐 PHP \| 📅 2026-10-07           | Save and classify articles                                                        |
-| [Tandoor Recipes](https://github.com/vabene1111/recipes) ⭐ 8,660 \| 🐛 419 \| 🌐 HTML \| 📅 2026-10-06   | Recipe manager                                                                    |
-| [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,665 \| 🐛 120 \| 🌐 Go \| 📅 2026-07-10               | Simple bookmark manager                                                           |
-| [Speedtest](https://github.com/librespeed/speedtest) ⭐ 15,220 \| 🐛 14 \| 🌐 JavaScript \| 📅 2026-09-27 | Self-hosted speed test                                                            |
+| [Tandoor Recipes](https://github.com/vabene1111/recipes) ⭐ 8,661 \| 🐛 419 \| 🌐 HTML \| 📅 2026-10-06   | Recipe manager                                                                    |
+| [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,668 \| 🐛 120 \| 🌐 Go \| 📅 2026-10-11               | Simple bookmark manager                                                           |
+| [Speedtest](https://github.com/librespeed/speedtest) ⭐ 15,219 \| 🐛 14 \| 🌐 JavaScript \| 📅 2026-09-27 | Self-hosted speed test                                                            |
 | [Papermerge](https://github.com/ciur/papermerge) ⚠️ Archived                                             | Document management system                                                        |
-| [Calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,358 \| 🐛 419 \| 🌐 Fluent \| 📅 2026-10-10  | Web app for browsing, reading, and downloading eBooks                             |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,865 \| 🐛 156 \| 🌐 PHP \| 📅 2026-10-10  | Personal finances manager                                                         |
-| [Homer](https://github.com/bastienwirtz/homer) ⭐ 11,651 \| 🐛 171 \| 🌐 Vue \| 📅 2026-09-28             | A dead simple static homepage for your server                                     |
+| [Calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,369 \| 🐛 419 \| 🌐 Fluent \| 📅 2026-10-10  | Web app for browsing, reading, and downloading eBooks                             |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,867 \| 🐛 155 \| 🌐 PHP \| 📅 2026-10-11  | Personal finances manager                                                         |
+| [Homer](https://github.com/bastienwirtz/homer) ⭐ 11,652 \| 🐛 170 \| 🌐 Vue \| 📅 2026-09-28             | A dead simple static homepage for your server                                     |
 | [Astuto](https://github.com/astuto/astuto) ⚠️ Archived                                                   | Customer feedback tool to collect, manage and prioritize feedback from your users |
 | [Wordpress](https://github.com/GSCloud/docker_wordpress) ⭐ 9 \| 🐛 0 \| 🌐 Makefile \| 📅 2026-06-01     | Run WordPress, MariaDB and phpMyAdmin in Docker                                   |
 
@@ -266,4 +266,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
